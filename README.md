@@ -5,6 +5,8 @@ List of acronyms (and also some abbreviations) that are somehow related to cyber
 2FA: Two-Factor Authentication  
 
 ## A
+ABAC: Attribute-Based Access Control  
+ACE: Arbitrary Code Execution  
 ACL: Access Control List  
 ACME: Automatic Certificate Management Environment  
 AD: Active Directory  
@@ -14,11 +16,13 @@ ADP: Advanced Data Protection
 AES: Advanced Encryption Standard  
 AI: Artificial Intelligence  
 AITM: Adversary in the Middle  
+ALPR: Automated License Plate Reader  
 API: Application Programming Interface  
 APK: Android Package Kit, Android Package, Android Application Package  
 App: Application  
 AppSec: Application Security  
 APT: Advanced Persistent Threat  
+AR: Augmented Reality  
 ARM: Advanced RISC Machine  
 ARP: Address Resolution Protocol  
 ASCII: American Standard Code for Information Interchange  
@@ -27,7 +31,7 @@ ASM: Attack Surface Management
 ATM: Automated Teller Machine  
 Authn: Authentication  
 Authz: Authorization  
-AV: Antivirus  
+AV: Antivirus, Autonomous Vehicle  
 AWS: Amazon Web Services  
 
 ## B
@@ -56,6 +60,7 @@ CERT: Computer Emergency Response Team
 CFAA: Computer Fraud and Abuse Act  
 CI: Continuous Integration  
 CIA: Central Intelligence Agency, Confidentiality + Integrity + Availability  
+CIDR: Classless Inter-Domain Routing  
 CIRT: Computer Incident Response Team  
 CIS: Center for Internet Security  
 CISA: Cybersecurity and Infrastructure Security Agency  
@@ -93,7 +98,8 @@ DA: Domain Admin
 DAST: Dynamic Application Security Testing  
 DB: Database  
 DBA: Database Administrator  
-DBMS: Data Management System  
+DBIR: Data Breach Investigations Report  
+DBMS: Database Management System  
 DC: Domain Controller  
 DDoS: Distributed Denial of Service  
 DEP: Data Execution Prevention  
@@ -111,9 +117,12 @@ DMZ: Demilitarized zone
 DNS: Domain Name System  
 DOB: Date of Birth  
 DoD: Department of Defense  
+DOM: Document Object Model  
 DoS: Denial of Service  
+DR: Disaster Recovery  
 DSA: Digital Signature Algorithm  
 DSL: Domain-Specific Language  
+DSPM: Data Security Posture Management  
 DTD: Document Type Definition  
 
 ## E
@@ -143,6 +152,8 @@ FaaS: Function as a Service
 FBI: Federal Bureau of Investigation  
 FIDO: Fast Identity Online  
 FOSS: Free and Open Source Software  
+FQDN: Fully Qualified Domain Name  
+FS: Forward Secrecy  
 FSF: Free Software Foundation  
 
 ## G
@@ -153,6 +164,7 @@ GCHQ: Government Communications Headquarters
 GCP: Google Cloud Platform  
 GDPR: General Data Protection Regulation  
 GNU: GNU's Not Unix  
+GPC: Global Privacy Control  
 GPL: General Public License  
 GPS: Global Positioning System  
 GPT: Generative Pre-trained Transformer  
@@ -164,6 +176,7 @@ HDD: Hard Disk Drive
 HIPAA: Health Insurance Portability and Accountability Act  
 HMAC: Hash-Based Message Authentication Code  
 HMI: Human-Machine Interface  
+HNDL: Harvest Now, Decrypt Later  
 HSM: Hardware Security Module  
 HSTS: HTTP Strict Transport Security  
 HTB: Hack The Box  
@@ -173,6 +186,7 @@ HTTPS: Hypertext Transfer Protocol Secure
 
 ## I
 IaaS: Infrastructure as a Service  
+IAB: Initial Access Broker  
 IaC: Infrastructure as Code  
 IAM: Identity and Access Management  
 IC: Intelligence Community  
@@ -182,6 +196,7 @@ ID: Identifier
 IDE: Integrated Development Environment  
 IDOR: Insecure Direct Object Reference  
 IDS: Intrusion Detection System  
+IE: Internet Explorer  
 IEC: International Electrotechnical Commission  
 IEEE: Institute of Electrical and Electronics Engineers  
 IETF: Internet Engineering Task Force  
@@ -190,15 +205,19 @@ IMEI: International Mobile Equipment Identity
 InfoSec: Information Security  
 Infotainment: Information and entertainment  
 Infra: Infrastructure  
+Intel: Intelligence  
+IoA: Indicator of Attack  
 IoT: Internet of Things  
 IP: Internet Protocol, Intellectual Property, Instruction Pointer  
 IPA: iOS App Store Package  
 IPC: Inter-Process Communication  
 IPS: Intrusion Prevention System  
 IR: Incident Response  
+IRP: Incident Response Platform  
 ISAC: Information Sharing and Analysis Center  
 ISO: International Organization for Standardization  
 ISP: Internet Service Provider  
+ISV: Independent Software Vendor  
 IT: Information Technology  
 IV: Initialization Vector  
 
@@ -222,6 +241,7 @@ LLM: Large Language Model
 LTS: Long Term Support  
 
 ## M
+MaaS: Malware as a Service  
 MAC: Media Access Control, Message Authentication Code  
 Malvertising: Malicious advertising  
 Malware: Malicious software  
@@ -245,6 +265,7 @@ NAS: Network-Attached Storage
 NAT: Network Address Translation  
 NCS: National Cybersecurity Strategy  
 NDA: Non-Disclosure Agreement  
+NDR: Network Detection and Response  
 NFC: Near Field Communication  
 NFS: Network File System  
 NFT: Non-fungible token  
@@ -293,7 +314,9 @@ PCI: Payment Card Industry
 PDF: Portable Document Format  
 PE: Portable Executable  
 Pentest: Penetration Test  
+PFS: Perfect Forward Secrecy  
 PGP: Pretty Good Privacy  
+PhaaS: Phishing as a Service  
 PHI: Protected Health Information  
 PIC: Position Independent Code  
 PID: Process Identifier  
@@ -307,15 +330,18 @@ PKI: Public key infrastructure
 PLC: Programmable Logic Controller  
 PoC: Proof of Concept  
 PoS: Proof of Stake  
+POSIX: Portable Operating System Interface  
 PoW: Proof of Work  
 PPID: Parent Process Identifier  
 PPP: Plaid Parliament of Pwning  
 PR: Pull Request  
 PRNG: Pseudorandom Number Generator  
 Prod: Production  
+PSOA: Private Sector Offensive Actor  
 PTE: Page Table Entry  
 PUC: Personal Unblocking Code  
 PUK: Personal Unblocking Key  
+PUP: Potentially Unwanted Program  
 PyPI: Python Package Index  
 
 ## Q
@@ -330,6 +356,7 @@ RAM: Random Access Memory
 RAT: Remote Administration Tool, Remote Access Trojan, Recovery Asset Team  
 RBAC: Role-Based Access Control  
 RCE: Remote Code Execution  
+RDBMS: Relational Database Management System  
 RDP: Remote Desktop Protocol  
 Regex: Regular expression  
 Repo: Repository  
@@ -343,6 +370,7 @@ ROM: Read-Only Memory
 ROP: Return-Oriented Programming  
 RPC: Remote Procedure Call  
 RSA: Rivest–Shamir–Adleman  
+RSR: Rapid Security Response  
 RTB: Real Time Bidding  
 RTOS: Real-Time Operating System  
 
@@ -356,6 +384,7 @@ SCA: Software Composition Analysis
 SCADA: Supervisory Control and Data Acquisition  
 SD: Secure Digital  
 SDK: Software Development Kit  
+SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
 SHA: Secure Hash Algorithm  
 SIEM: Security Information and Event Management  
@@ -365,10 +394,12 @@ SMBs: Small and Medium-sized Businesses
 Smishing: SMS + Phishing  
 SMS: Short Message/Messaging Service  
 SOAP: Simple Object Access Protocol  
+SOAR: Security orchestration, automation and response  
 SOC: Security Operations Center  
 SOP: Same-Origin Policy  
 SOUP: Software of Unknown/Uncertain Pedigree/Provenance  
 SPA: Single-Page Application  
+Spec: Specification  
 SPF: Sender Policy Framework  
 SQL: Structured Query Language  
 SQLi: SQL injection  
@@ -380,25 +411,32 @@ SSN: Social Security number
 SSO: Single Sign On  
 SSRF: Server-Side Request Forgery  
 SSTI: Server Side Template Injection  
+Steg: Steganography  
+SWIFT: Society for Worldwide Interbank Financial Telecommunications  
 
 ## T
+TAG: Threat Analysis Group  
 TCP: Transmission Control Protocol  
 TDD: Test-Driven Development  
 Tech: Technology  
 THM: TryHackMe  
+TI: Threat Intelligence  
 TLD: Top-Level Domain  
 TLS: Transport Layer Security  
+TOAD: Telephone Oriented Attack Delivery  
 TOCTOU: Time-Of-Check Time-Of-Use  
 TOFU: Trust On First Use  
 TOLA: Telecommunications and Other Legislation Amendment  
 TOR: The Onion Router  
 TOTP: Time-based One-Time Password  
 TPM: Trusted Platform Module  
+TPRM: Third-Party Risk Management  
 TPSA: Third Party Security Assessment  
 TTL: Time to live  
 TTPs: Tactics, Techniques, and Procedures  
 
 ## U
+UAC:  User Account Control  
 UAT: User Acceptance Testing  
 UBA: User Behavior Analytics  
 UDP: User Datagram Protocol  
@@ -413,10 +451,12 @@ USB: Universal Serial Bus
 USSS: United States Secret Service  
 UTC: Coordinated Universal Time  
 UTF: Unicode Transformation Format  
+UX: User Experience  
 
 ## V
 VB: Visual Basic  
 VBA: Visual Basic for Applications  
+VCaaS: Voice Cloning as a Service  
 Vishing: Voice + Phishing  
 VLAN: Virtual Local Area Network  
 VM: Virtual Machine  
@@ -424,10 +464,12 @@ VNC: Virtual Network Computing
 VoIP: Voice over Internet Protocol  
 VPN: Virtual Private Network  
 VPS: Virtual Private Server  
+VR: Virtual Reality  
 VS: Vulnerability Scan  
 Vuln: Vulnerability  
 
 ## W
+WaaS: Wallet as a Service  
 WAF: Web Application Firewall  
 WAN: Wide Area Network  
 WEP: Wired Equivalent Privacy  
