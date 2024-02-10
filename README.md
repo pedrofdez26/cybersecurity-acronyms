@@ -6,7 +6,9 @@ List of acronyms (and also some abbreviations) that are somehow related to cyber
 
 ## A
 ABAC: Attribute-Based Access Control  
+Abandonware: Abandoned + software  
 ACE: Arbitrary Code Execution  
+ACK: Acknowledgement  
 ACL: Access Control List  
 ACME: Automatic Certificate Management Environment  
 AD: Active Directory  
@@ -14,9 +16,12 @@ ADB: Android Debug Bridge
 Admin: Administrator  
 ADP: Advanced Data Protection  
 AES: Advanced Encryption Standard  
+AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AITM: Adversary in the Middle  
 ALPR: Automated License Plate Reader  
+AML: Adversarial Machine Learning  
+APFS: Apple File System  
 API: Application Programming Interface  
 APK: Android Package Kit, Android Package, Android Application Package  
 App: Application  
@@ -28,6 +33,8 @@ ARP: Address Resolution Protocol
 ASCII: American Standard Code for Information Interchange  
 ASLR: Address Space Layout Randomization  
 ASM: Attack Surface Management  
+ASPM: Application Security Posture Management  
+AST: Abstract Syntax Tree  
 ATM: Automated Teller Machine  
 ATO: Account Takeover  
 Authn: Authentication  
@@ -37,6 +44,8 @@ AWS: Amazon Web Services
 AZ: Availability Zone  
 
 ## B
+B2B: Business-to-business  
+B2C: Business-to-consumer  
 BCP: Business Continuity Plan  
 BEC: Business Email Compromise  
 BFLA: Broken Function Level Authorization  
@@ -76,14 +85,17 @@ CISO: Chief Information Security Officer
 CLI: Command Line Interface  
 CMS: Content Management System  
 CNA: CVE Numbering Authority  
+CNAPP: Cloud-Native Application Protection Platform  
 CNCF: Cloud Native Computing Foundation  
 COBOL: Common Business Oriented Language  
 COMB: Compilation of Many Breaches  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
 CPU: Central Processing Unit  
+CR: Carriage Return  
 CRC: Cyclic Redundancy Check  
 CRM: Customer Relationship Management  
+CRS: Core Rule Set  
 CRUD: Create, Read, Update, and Delete  
 CS: Computer Science  
 CSA: Cloud Security Alliance  
@@ -100,6 +112,7 @@ CVD: Coordinated Vulnerability Disclosure
 CVE: Common Vulnerabilities and Exposures  
 CVSS: Common Vulnerability Scoring System  
 CWE: Common Weakness Enumeration  
+CWPP: Cloud Workload Protection Platform  
 Cyber: Cybersecurity  
 
 ## D
@@ -121,6 +134,7 @@ DevOps: Development + Operations
 DevSecOps: Development + Security + Operations  
 DFIR: Digital Forensics and Incident Response  
 DHCP: Dynamic Host Configuration Protocol  
+DID: Decentralized Identifier  
 DKIM: DomainKeys Identified Mail  
 DLL: Dynamic-Link Library  
 DLP: Data Loss Prevention  
@@ -149,6 +163,7 @@ EC2: Elastic Compute Cloud
 ECB: Electronic Code Book  
 ECC: Elliptic Curve Cryptography  
 ECDSA: Elliptic Curve Digital Signature Algorithm  
+ECH: Encrypted Client Hello  
 ECU: Electronic Control Unit  
 EDR: Endpoint Detection and Response, Emergency Data Request  
 EFF: Electronic Frontier Foundation  
@@ -160,21 +175,25 @@ EoP: Elevation of Privilege
 EPDR: Endpoint Protection, Detection and Response  
 EPP: Endpoint Protection Platform  
 ERP: Enterprise Resource Planning  
+ESNI: Encrypted Server Name Indication  
 ESU: Extended Security Update  
 ETH: Ether  
 EU: European Union  
 EULA: End-User License Agreement  
 EV: Electric Vehicle  
+exFAT: Extended File Allocation Table  
 Exfil: Exfiltration  
 
 ## F
 FaaS: Function as a Service  
+FAT: File Allocation Table  
 FBI: Federal Bureau of Investigation  
 FGAC: Fine-Grained Access Control  
 FIDO: Fast Identity Online  
 FOIA: Freedom of Information Act  
 FOSS: Free and Open Source Software  
 FQDN: Fully Qualified Domain Name  
+Freeware: Free + software  
 FS: Forward Secrecy  
 FSF: Free Software Foundation  
 
@@ -196,6 +215,7 @@ GRC: Governance, Risk, and Compliance
 GUI: Graphical User Interface  
 
 ## H
+HA: High Availability  
 HCL: HashiCorp Configuration Language  
 HDD: Hard Disk Drive  
 HI: Human Intelligence  
@@ -231,6 +251,7 @@ IEC: International Electrotechnical Commission
 IEEE: Institute of Electrical and Electronics Engineers  
 IETF: Internet Engineering Task Force  
 IIoT: Industrial Internet of Things  
+IIS: Internet Information Services  
 ILPIP: Instance-Level Public IP  
 IM: Instant Messaging  
 IMAP: Internet Messaging Access Protocol  
@@ -265,13 +286,18 @@ JWT: JSON Web Token
 ## K
 K8s: Kubernetes  
 KEV: Known Exploited Vulnerabilities  
+KPI: Key Performance Indicator  
+KQL: Kusto Query Language  
 KYC: Know Your Customer  
 
 ## L
 LAN: Local Area Network  
 LDAP: Lightweight Directory Access Protocol  
+LF: Line Feed  
 LFI: Local File Inclusion  
 LLM: Large Language Model  
+LotL: Living off the Land  
+LOTS: Living Off Trusted Sites  
 LTS: Long Term Support  
 
 ## M
@@ -279,20 +305,26 @@ MaaS: Malware as a Service
 MAC: Media Access Control, Message Authentication Code  
 Malvertising: Malicious advertising  
 Malware: Malicious software  
+MCRR: Managed Cyber Risk Reduction  
 MCSB: Microsoft Cloud Security Benchmark  
 MD5: Message Digest 5  
+MDE: Microsoft Defender for Endpoint  
 MDM: Mobile Device Management  
 MDR: Managed Detection and Response  
 MFA: Multi-Factor Authentication  
 MFT: Master File Table  
 MITM: Man in the Middle, Manipulator in the Middle  
 ML: Machine Learning  
+MLSecOps: Machine Learning + Security + Operations  
 MMU: Memory Management Unit  
 MO: Modus Operandi  
+MOAB: Mother of All Breaches  
 MOTW: Mark of the Web  
+MQTT: Message Queuing Telemetry Transport  
 MSP: Managed Service Provider  
 MSRC: Microsoft Security Response Center  
 MSSP: Managed Security Service Provider  
+MTTR: Mean Time To Remediation  
 
 ## N
 NAC: Network Access Control  
@@ -301,20 +333,26 @@ NAPT: Network Address and Port Translation
 NAS: Network-Attached Storage  
 NAT: Network Address Translation  
 NATO: North Atlantic Treaty Organization  
+NCA: National Crime Agency  
 NCS: National Cybersecurity Strategy  
+NCSC: National Cyber Security Centre  
 NDA: Non-Disclosure Agreement  
 NDR: Network Detection and Response  
+NetSec: Network Security  
 NFC: Near Field Communication  
 NFS: Network File System  
 NFT: Non-fungible token  
 NIC: Network Interface Controller, Network Interface Card  
 NIST: National Institute of Standards and Technology  
+NL: New Line  
 NLP: Natural Language Processing  
 Nmap: Network mapper  
 NOC: Network Operations Center  
 NPM: Node Package Manager  
 NSA: National Security Agency  
 NSG: Network Security Group  
+NT: New Technology  
+NTFS: New Technology File System  
 NTP: Network Time Protocol  
 NVA: Network Virtual Appliance  
 NVD: National Vulnerability Database  
@@ -339,6 +377,7 @@ OSS: Open Source Software
 OTA: Over-The-Air  
 OTP: One-Time Password  
 OTR: Off-the-Record  
+OU: Organizational Unit  
 OVA: Open Virtualization Application/Appliance  
 OVF: Open Virtualization Format  
 OWASP: Open Web Application Security Project  
@@ -360,11 +399,13 @@ PFS: Perfect Forward Secrecy
 PGP: Pretty Good Privacy  
 PhaaS: Phishing as a Service  
 PHI: Protected Health Information  
+PHS: Password Hash Sync  
 PI: Private Investigator  
 PIC: Position Independent Code  
 PID: Process Identifier  
 PIE: Position Independent Executable, Pre-Internet Encryption  
 PII: Personal Identifiable Information  
+PIM: Privileged Identity Management  
 PIN: Personal Identification Number  
 PIP: Pip Installs Packages  
 PITM: Person in the Middle  
@@ -383,7 +424,9 @@ PPP: Plaid Parliament of Pwning
 PR: Pull Request  
 PRNG: Pseudorandom Number Generator  
 Prod: Production  
+ProdSec: Product Security  
 PSOA: Private Sector Offensive Actor  
+PTA: Pass Through Authentication  
 PTE: Page Table Entry  
 PUC: Personal Unblocking Code  
 PUK: Personal Unblocking Key  
@@ -401,6 +444,8 @@ Qubit: Quantum bit
 R&D: Research and Development  
 RaaS: Ransomware as a Service  
 RAM: Random Access Memory  
+Ransomware: Ransom + software  
+RAR: Roshal Archive  
 RAT: Remote Administration Tool, Remote Access Trojan, Recovery Asset Team  
 RBAC: Role-Based Access Control  
 RCE: Remote Code Execution  
@@ -419,10 +464,14 @@ ROI: Return on investment
 ROM: Read-Only Memory  
 ROP: Return-Oriented Programming  
 RPC: Remote Procedure Call  
+RPO: Recovery Point Objective  
 RSA: Rivest–Shamir–Adleman  
 RSR: Rapid Security Response  
+RST: Reset  
 RTB: Real Time Bidding  
+RTO: Recovery Time Objective  
 RTOS: Real-Time Operating System  
+RTU: Remote Terminal Unit  
 RVA: Risk and Vulnerability Assessment  
 
 ## S
@@ -430,6 +479,7 @@ S2C2F: Secure Supply Chain Consumption Framework
 S2S: Site-To-Site  
 S3: Simple Storage Service  
 SaaS: Software as a Service  
+SAML: Security Assertion Markup Language  
 SAST: Static Application Security Testing  
 SBOM: Software Bill of Materials  
 SCA: Software Composition Analysis  
@@ -452,9 +502,11 @@ Smishing: SMS + Phishing
 SMS: Short Message/Messaging Service  
 SMTP: Simple Mail Transfer Protocol  
 SNAT: Source NAT  
+SNI: Server Name Indication  
 SOAP: Simple Object Access Protocol  
 SOAR: Security orchestration, automation and response  
 SOC: Security Operations Center  
+SOHO: Small Office/Home Office  
 SOP: Same-Origin Policy  
 SOUP: Software of Unknown/Uncertain Pedigree/Provenance  
 SPA: Single-Page Application  
@@ -469,10 +521,12 @@ SSL: Secure Sockets Layer
 SSN: Social Security number  
 SSO: Single Sign On  
 SSPM: SaaS Security Posture Management  
+SSPR: Self-Service Password Reset  
 SSRF: Server-Side Request Forgery  
 SSTI: Server Side Template Injection  
 Steg: Steganography  
 SWIFT: Society for Worldwide Interbank Financial Telecommunications  
+SYN: Synchronize  
 
 ## T
 TAG: Threat Analysis Group  
@@ -520,6 +574,7 @@ VB: Visual Basic
 VBA: Visual Basic for Applications  
 VCaaS: Voice Cloning as a Service  
 VDI: Virtual Desktop Infrastructure  
+VHD: Virtual Hard Disk  
 Vishing: Voice + Phishing  
 VLAN: Virtual Local Area Network  
 VM: Virtual Machine  
@@ -548,6 +603,7 @@ XXE: XML External Entity
 
 ## Y
 Y2K: Year 2000  
+YAML: Yet Another Markup Language, YAML Ain't Markup Language  
 YARA: Yet Another Ridiculous Acronym  
 
 ## Z
