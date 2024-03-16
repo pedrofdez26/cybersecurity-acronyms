@@ -15,6 +15,7 @@ AD: Active Directory
 ADB: Android Debug Bridge  
 Admin: Administrator  
 ADP: Advanced Data Protection  
+Adware: Advertising + software  
 AES: Advanced Encryption Standard  
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
@@ -28,9 +29,11 @@ App: Application
 AppSec: Application Security  
 APT: Advanced Persistent Threat  
 AR: Augmented Reality  
+ARIN: American Registry for Internet Numbers  
 ARM: Advanced RISC Machine  
 ARP: Address Resolution Protocol  
 ASCII: American Standard Code for Information Interchange  
+ASG: Application Security Group  
 ASLR: Address Space Layout Randomization  
 ASM: Attack Surface Management  
 ASPM: Application Security Posture Management  
@@ -54,14 +57,18 @@ BIOS: Basic Input/Output System
 Bit: Binary digit  
 BLE: Bluetooth Low Energy  
 BOLA: Broken Object Level Authorization  
+Bossware: Boss + software  
 BTC: Bitcoin  
 BYOD: Bring Your Own Device  
+BYOK: Bring Your Own Key  
 
 ## C
 C2, C&C: Command and Control  
 CA: Certificate Authority  
 CaaS: Compliance as a Service  
+CAF: Cloud Adoption Framework  
 CAN: Controller Area Network  
+CAP: Consistency, Availability, Partition tolerance  
 CapEx: Capital Expenditure  
 CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Apart  
 CARTA: Continuous Adaptive Risk and Trust Assessment  
@@ -74,6 +81,7 @@ CDR: Cloud Detection and Response
 CERT: Computer Emergency Response Team  
 CFAA: Computer Fraud and Abuse Act  
 CFG: Control-flow graph  
+CGN: Carrier-grade NAT  
 CI: Continuous Integration  
 CIA: Central Intelligence Agency, Confidentiality + Integrity + Availability  
 CIDR: Classless Inter-Domain Routing  
@@ -83,6 +91,7 @@ CISA: Cybersecurity and Infrastructure Security Agency
 CISC: Complex Instruction Set Computer  
 CISO: Chief Information Security Officer  
 CLI: Command Line Interface  
+CMK: Customer-managed key  
 CMS: Content Management System  
 CNA: CVE Numbering Authority  
 CNAPP: Cloud-Native Application Protection Platform  
@@ -91,6 +100,8 @@ COBOL: Common Business Oriented Language
 COMB: Compilation of Many Breaches  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
+COTS: Commercial off-the-shelf  
+CPE: Customer-premises equipment  
 CPU: Central Processing Unit  
 CR: Carriage Return  
 CRC: Cyclic Redundancy Check  
@@ -117,6 +128,7 @@ Cyber: Cybersecurity
 
 ## D
 DA: Domain Admin  
+DaaS: Desktop as a Service  
 DAO: Decentralized Autonomous Organization  
 DARPA: Defense Advanced Research Projects Agency  
 DAST: Dynamic Application Security Testing  
@@ -136,11 +148,14 @@ DFIR: Digital Forensics and Incident Response
 DHCP: Dynamic Host Configuration Protocol  
 DID: Decentralized Identifier  
 DKIM: DomainKeys Identified Mail  
+DL: Distribution List  
 DLL: Dynamic-Link Library  
 DLP: Data Loss Prevention  
+DLS: Dedicated/Data Leak Site  
 DMARC: Domain-based Message Authentication, Reporting and Conformance  
 DMZ: Demilitarized zone  
 DNAT: Destination NAT  
+DnR: Detection and Response  
 DNS: Domain Name System  
 DNT: Do Not Track  
 DOB: Date of Birth  
@@ -150,6 +165,7 @@ DOM: Document Object Model
 DoS: Denial of Service  
 DOSA: Detection Oriented Security Architecture  
 DoT: DNS over TLS  
+DPO: Data Protection Officer  
 DR: Disaster Recovery  
 DSA: Digital Signature Algorithm  
 DSL: Domain-Specific Language  
@@ -164,6 +180,7 @@ ECB: Electronic Code Book
 ECC: Elliptic Curve Cryptography  
 ECDSA: Elliptic Curve Digital Signature Algorithm  
 ECH: Encrypted Client Hello  
+eCrime: Electronic Crime  
 ECU: Electronic Control Unit  
 EDR: Endpoint Detection and Response, Emergency Data Request  
 EFF: Electronic Frontier Foundation  
@@ -174,13 +191,14 @@ EOL: End Of Life
 EoP: Elevation of Privilege  
 EPDR: Endpoint Protection, Detection and Response  
 EPP: Endpoint Protection Platform  
+EPSS: Exploit Prediction Scoring System  
 ERP: Enterprise Resource Planning  
 ESNI: Encrypted Server Name Indication  
 ESU: Extended Security Update  
 ETH: Ether  
 EU: European Union  
 EULA: End-User License Agreement  
-EV: Electric Vehicle  
+EV: Electric Vehicle, Extended Validation  
 exFAT: Extended File Allocation Table  
 Exfil: Exfiltration  
 
@@ -198,6 +216,7 @@ FS: Forward Secrecy
 FSF: Free Software Foundation  
 
 ## G
+GA: Global Administrator  
 GAN: Generative Adversarial Network  
 GC: Garbage Collector  
 GCC: GNU Compiler Collection  
@@ -236,6 +255,8 @@ IaaS: Infrastructure as a Service
 IAB: Initial Access Broker  
 IaC: Infrastructure as Code  
 IAM: Identity and Access Management  
+IANA: Internet Assigned Numbers Authority  
+IAST: Interactive Application Security Testing  
 IC: Intelligence Community  
 IC3: Internet Crime Complaint Center  
 ICMP: Internet Control Message Protocol  
@@ -257,6 +278,7 @@ IM: Instant Messaging
 IMAP: Internet Messaging Access Protocol  
 IMEI: International Mobile Equipment Identity  
 InfoSec: Information Security  
+Infostealer: Information stealer  
 Infotainment: Information and entertainment  
 Infra: Infrastructure  
 Intel: Intelligence  
@@ -277,6 +299,7 @@ IV: Initialization Vector
 
 ## J
 JAR: Java Archive  
+JEA: Just Enough Access  
 JIT: Just-in-time  
 JS: JavaScript  
 JSON: JavaScript Object Notation  
@@ -296,6 +319,7 @@ LDAP: Lightweight Directory Access Protocol
 LF: Line Feed  
 LFI: Local File Inclusion  
 LLM: Large Language Model  
+LOLBins: Living Off the Land Binaries  
 LotL: Living off the Land  
 LOTS: Living Off Trusted Sites  
 LTS: Long Term Support  
@@ -320,11 +344,16 @@ MMU: Memory Management Unit
 MO: Modus Operandi  
 MOAB: Mother of All Breaches  
 MOTW: Mark of the Web  
+MPLS: Multiprotocol Label Switching  
 MQTT: Message Queuing Telemetry Transport  
+MSA: Microsoft account  
 MSP: Managed Service Provider  
 MSRC: Microsoft Security Response Center  
 MSSP: Managed Security Service Provider  
+MTA: Mail/Message Transfer Agent  
 MTTR: Mean Time To Remediation  
+MVP: Minimum Viable Product  
+MX: Mail exchange  
 
 ## N
 NAC: Network Access Control  
@@ -388,6 +417,7 @@ P2S: Point-To-Site
 PaaS: Platform as a Service  
 PaC: Policy as Code  
 PAM: Pluggable Authentication Modules  
+PAW: Privileged Access Workstation  
 PBKDF: Password-Based Key Derivation Function  
 PC: Personal Computer, Program Counter  
 PCAP: Packet Capture  
@@ -413,14 +443,18 @@ PKC: Public Key Cryptography
 PKI: Public key infrastructure  
 PLC: Programmable Logic Controller  
 PM: Product Manager  
+PMK: Platform-managed key  
 PMMU: Paged Memory Management Unit  
 PoC: Proof of Concept  
 POP: Post Office Protocol  
 PoS: Proof of Stake  
 POSIX: Portable Operating System Interface  
+POTS: Plain Old Telephone Service  
 PoW: Proof of Work  
 PPID: Parent Process Identifier  
 PPP: Plaid Parliament of Pwning  
+PQ: Post-quantum  
+PQC: Post-quantum cryptography  
 PR: Pull Request  
 PRNG: Pseudorandom Number Generator  
 Prod: Production  
@@ -469,6 +503,7 @@ RSA: Rivest–Shamir–Adleman
 RSR: Rapid Security Response  
 RST: Reset  
 RTB: Real Time Bidding  
+RTF: Rich Text Format  
 RTO: Recovery Time Objective  
 RTOS: Real-Time Operating System  
 RTU: Remote Terminal Unit  
@@ -481,6 +516,7 @@ S3: Simple Storage Service
 SaaS: Software as a Service  
 SAML: Security Assertion Markup Language  
 SAST: Static Application Security Testing  
+SbD: Secure by Design  
 SBOM: Software Bill of Materials  
 SCA: Software Composition Analysis  
 SCADA: Supervisory Control and Data Acquisition  
@@ -488,14 +524,17 @@ SD: Secure Digital
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
 SDN: Software-defined networking  
+SDV: Software-Defined Vehicle  
 SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
 SHA: Secure Hash Algorithm  
 SIEM: Security Information and Event Management  
 SIGINT: Signals intelligence  
+SIP: System Integrity Protection  
 Skiddie: Script kiddie  
 SKU: Stock Keeping Unit  
 SLA: Service Level Agreement  
+SLSA: Supply chain Levels for Software Artifacts  
 SMB: Server Message Block  
 SMBs: Small and Medium-sized Businesses  
 Smishing: SMS + Phishing  
@@ -503,6 +542,7 @@ SMS: Short Message/Messaging Service
 SMTP: Simple Mail Transfer Protocol  
 SNAT: Source NAT  
 SNI: Server Name Indication  
+SNMP: Simple Network Management Protocol  
 SOAP: Simple Object Access Protocol  
 SOAR: Security orchestration, automation and response  
 SOC: Security Operations Center  
@@ -515,6 +555,7 @@ SPF: Sender Policy Framework
 SQL: Structured Query Language  
 SQLi: SQL injection  
 SSD: Solid-State Drive  
+SSDF: Secure Software Development Framework  
 SSH: Secure Shell  
 SSID: Service Set Identifier  
 SSL: Secure Sockets Layer  
@@ -524,6 +565,7 @@ SSPM: SaaS Security Posture Management
 SSPR: Self-Service Password Reset  
 SSRF: Server-Side Request Forgery  
 SSTI: Server Side Template Injection  
+Stalkerware: Stalker + software  
 Steg: Steganography  
 SWIFT: Society for Worldwide Interbank Financial Telecommunications  
 SYN: Synchronize  
@@ -556,11 +598,13 @@ UAC:  User Account Control
 UAT: User Acceptance Testing  
 UBA: User Behavior Analytics  
 UDP: User Datagram Protocol  
+UDR: User-Defined Route/Routing  
 UEBA: User and Entity Behavior Analytics  
 UEFI: Unified Extensible Firmware Interface  
 UI: User Interface  
 UML: Unified Modeling Language  
 UPnP: Universal Plug and Play  
+UPS: Uninterruptible power supply/source  
 URI: Universal Resource Identifier  
 URL: Uniform Resource Locator  
 USB: Universal Serial Bus  
@@ -588,7 +632,7 @@ Vuln: Vulnerability
 
 ## W
 WaaS: Wallet as a Service  
-WAF: Web Application Firewall  
+WAF: Web Application Firewall, Well-Architected Framework  
 WAN: Wide Area Network  
 WEP: Wired Equivalent Privacy  
 WPA: Wi-Fi Protected Access  
