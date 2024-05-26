@@ -3,6 +3,7 @@ List of acronyms (and also some abbreviations) that are somehow related to cyber
 
 ## 0-9
 2FA: Two-Factor Authentication  
+3LA: 3 Letter Acronym  
 3PM: Third Party Monitoring  
 
 ## A
@@ -14,6 +15,7 @@ ACL: Access Control List
 ACME: Automatic Certificate Management Environment  
 AD: Active Directory  
 ADB: Android Debug Bridge  
+ADDS: Active Directory Domain Services  
 Admin: Administrator  
 ADP: Advanced Data Protection  
 Adware: Advertising + software  
@@ -22,17 +24,17 @@ AGI: Artificial General Intelligence
 AI: Artificial Intelligence  
 AITM: Adversary in the Middle  
 ALPR: Automated License Plate Reader  
-AML: Adversarial Machine Learning  
+AML: Adversarial Machine Learning | Anti-Money Laundering  
 ANSI: American National Standards Institute  
 APFS: Apple File System  
 API: Application Programming Interface  
 APK: Android Package Kit | Android Package | Android Application Package  
-App: Application  
+APP: Authorized Push Payment | Application  
 AppSec: Application Security  
 APT: Advanced Persistent Threat  
 AR: Augmented Reality | Automated Reasoning  
 ARIN: American Registry for Internet Numbers  
-ARM: Advanced RISC Machine  
+ARM: Advanced RISC Machine | Azure Resource Manager  
 ARP: Address Resolution Protocol  
 ASCII: American Standard Code for Information Interchange  
 ASG: Application Security Group  
@@ -55,6 +57,7 @@ AZ: Availability Zone
 B2B: Business-to-business  
 B2C: Business-to-consumer  
 BAS: Breach and Attack Simulation  
+BCI: Brain–computer interface  
 BCP: Business Continuity Plan  
 BEC: Business Email Compromise  
 BFLA: Broken Function Level Authorization  
@@ -62,6 +65,7 @@ BGP: Border Gateway Protocol
 BIOS: Basic Input/Output System  
 Bit: Binary digit  
 BLE: Bluetooth Low Energy  
+BMI: Brain–machine interface  
 BOLA: Broken Object Level Authorization  
 Bossware: Boss + software  
 Botnet: Robot network  
@@ -84,6 +88,7 @@ CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Ap
 CARTA: Continuous Adaptive Risk and Trust Assessment  
 CASB: Cloud Access Security Broker  
 CBC: Cipher Block Chaining  
+CBDC: Central Bank Digital Currency  
 CCPA: California Consumer Privacy Act  
 CD: Continuous Delivery | Continuous Deployment  
 CDN: Content Delivery Network  
@@ -95,6 +100,7 @@ CFG: Control-flow graph
 CGN: Carrier-grade NAT  
 CI: Continuous Integration  
 CIA: Central Intelligence Agency | Confidentiality + Integrity + Availability  
+CIAM: Customer Identity and Access Management  
 CIDR: Classless Inter-Domain Routing  
 CIRT: Computer Incident Response Team  
 CIS: Center for Internet Security  
@@ -102,23 +108,28 @@ CISA: Cybersecurity and Infrastructure Security Agency
 CISC: Complex Instruction Set Computer  
 CISO: Chief Information Security Officer  
 CLI: Command Line Interface  
+Clickjacking: Click + hijacking  
 CMK: Customer-managed key  
 CMS: Content Management System  
 CNA: CVE Numbering Authority  
+CNAME: Canonical Name  
 CNAPP: Cloud-Native Application Protection Platform  
 CNCF: Cloud Native Computing Foundation  
 CNI: Centro Nacional de Inteligencia  
 COBOL: Common Business Oriented Language  
 COMB: Compilation of Many Breaches  
+Config: Configuration  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
 COTS: Commercial off-the-shelf  
-CPE: Customer-premises equipment  
+CPE: Customer-premises equipment | Common Platform Enumeration  
+CPG: Cybersecurity Performance Goal  
 CPU: Central Processing Unit  
 CR: Carriage Return  
 CRC: Cyclic Redundancy Check  
+Creds: Credentials  
 CRM: Customer Relationship Management  
-CRS: Core Rule Set  
+CRS: Core Rule Set | Container Runtime Security  
 CRUD: Create, Read, Update, and Delete  
 CS: Computer Science  
 CSA: Cloud Security Alliance  
@@ -126,6 +137,8 @@ CSIRT: Computer Security Incident Response Team
 CSO: Chief Security Officer  
 CSP: Content Security Policy | Cloud Service Provider  
 CSPM: Cloud Security Posture Management  
+CSR: Client-Side Rendering  
+CSRB: Cyber Safety Review Board  
 CSS: Cascading Style Sheets  
 CSV: Comma-Separated Values  
 CTF: Capture the Flag  
@@ -147,14 +160,17 @@ DARPA: Defense Advanced Research Projects Agency
 DAST: Dynamic Application Security Testing  
 DB: Database  
 DBA: Database Administrator  
+DBaaS: Database as a Service  
 DBIR: Data Breach Investigations Report  
 DBMS: Database Management System  
 DC: Domain Controller  
 DDoS: Distributed Denial of Service  
 DeFi: Decentralized Finance  
+Demo: Demonstration  
+Demoware: Demo + software  
 DEP: Data Execution Prevention  
 DES: Data Encryption Standard  
-Dev: Developer, Development  
+Dev: Developer | Development  
 DevOps: Development + Operations  
 DevSecOps: Development + Security + Operations  
 DFIR: Digital Forensics and Incident Response  
@@ -188,6 +204,7 @@ DSPM: Data Security Posture Management
 DTD: Document Type Definition  
 
 ## E
+E-waste: Electronic waste  
 E2EE: End-to-End Encryption  
 eBPF: Extended Berkeley Packet Filter  
 EC2: Elastic Compute Cloud  
@@ -214,9 +231,11 @@ ESG: Email Security Gateway
 ESNI: Encrypted Server Name Indication  
 ESU: Extended Security Update  
 ETH: Ether  
+ETSI: European Telecommunications Standards Institute  
 EU: European Union  
 EULA: End-User License Agreement  
 EV: Electric Vehicle, Extended Validation  
+Exec: Executive  
 exFAT: Extended File Allocation Table  
 Exfil: Exfiltration  
 
@@ -224,8 +243,10 @@ Exfil: Exfiltration
 FaaS: Function as a Service  
 FAT: File Allocation Table  
 FBI: Federal Bureau of Investigation  
+FCC: Federal Communications Commission  
 FGAC: Fine-Grained Access Control  
 FIDO: Fast Identity Online  
+FIFO: First In, First Out  
 FNMT: Fábrica Nacional de Moneda y Timbre  
 FOIA: Freedom of Information Act  
 FOSS: Free and Open Source Software  
@@ -252,6 +273,7 @@ GPT: Generative Pre-trained Transformer
 GPU: Graphics Processing Unit  
 GRC: Governance, Risk, and Compliance  
 GUI: Graphical User Interface  
+GUID: Globally Unique Identifier  
 
 ## H
 HA: High Availability  
@@ -282,6 +304,7 @@ IAM: Identity and Access Management
 IANA: Internet Assigned Numbers Authority  
 IAPP: International Association of Privacy Professionals  
 IAST: Interactive Application Security Testing  
+IBN: Internet Background Noise  
 IC: Intelligence Community  
 IC3: Internet Crime Complaint Center  
 ICMP: Internet Control Message Protocol  
@@ -310,6 +333,7 @@ Infotainment: Information and entertainment
 Infra: Infrastructure  
 Intel: Intelligence  
 IoA: Indicator of Attack  
+IOPS: Input/Output Operations Per Second  
 IoT: Internet of Things  
 IP: Internet Protocol | Intellectual Property | Instruction Pointer  
 IPA: iOS App Store Package  
@@ -342,6 +366,7 @@ KBA: Knowledge-based authentication
 KEV: Known Exploited Vulnerabilities  
 KPI: Key Performance Indicator  
 KQL: Kusto Query Language  
+KVM: Keyboard, Video and Mouse  
 KYC: Know Your Customer  
 
 ## L
@@ -349,6 +374,7 @@ LAN: Local Area Network
 LDAP: Lightweight Directory Access Protocol  
 LF: Line Feed  
 LFI: Local File Inclusion  
+LIFO: Last In, First Out  
 LLD: Low Level Design  
 LLM: Large Language Model  
 LOLBins: Living Off the Land Binaries  
@@ -379,8 +405,10 @@ MMU: Memory Management Unit
 MO: Modus Operandi  
 MOAB: Mother of All Breaches  
 MOTW: Mark of the Web  
+MPA: Multi-Page Application  
 MPLS: Multiprotocol Label Switching  
 MQTT: Message Queuing Telemetry Transport  
+MRO: Memory Read Out  
 MSA: Microsoft account  
 MSP: Managed Service Provider  
 MSRC: Microsoft Security Response Center  
@@ -487,6 +515,8 @@ PLC: Programmable Logic Controller
 PM: Product Manager  
 PMK: Platform-managed key  
 PMMU: Paged Memory Management Unit  
+PNT: Positioning, Navigation and Timing  
+PO: Purchase Order  
 PoC: Proof of Concept  
 POP: Post Office Protocol  
 PoS: Proof of Stake  
@@ -520,6 +550,7 @@ Qubit: Quantum bit
 ## R
 R&D: Research and Development  
 RaaS: Ransomware as a Service  
+RACI: Responsible, Accountable, Consulted, Informed  
 RAM: Random Access Memory  
 Ransomware: Ransom + software  
 RAR: Roshal Archive  
@@ -563,6 +594,7 @@ S3: Simple Storage Service
 SaaS: Software as a Service  
 SAI: Sistema de Alimentación Ininterrumpida  
 SAML: Security Assertion Markup Language  
+SAS: Shared Access Signature  
 SAST: Static Application Security Testing  
 SbD: Secure by Design  
 SBOM: Software Bill of Materials  
@@ -580,6 +612,7 @@ SIA: Secure Internet Access
 SICI: Systemically Important Critical Infrastructure  
 SIEM: Security Information and Event Management  
 SIGINT: Signals intelligence  
+Simjacking: SIM + hijacking  
 SIP: System Integrity Protection  
 Skiddie: Script kiddie  
 SKU: Stock Keeping Unit  
@@ -614,23 +647,27 @@ SSN: Social Security number
 SSO: Single Sign On  
 SSPM: SaaS Security Posture Management  
 SSPR: Self-Service Password Reset  
+SSR: Server-Side Rendering  
 SSRF: Server-Side Request Forgery  
 SSTI: Server Side Template Injection  
 Stalkerware: Stalker + software  
 STAR: Security, Trust, Assurance and Risk  
 Steg: Steganography  
 STIG: Security Technical Implementation Guide  
+STS: Security Token Service  
 SWIFT: Society for Worldwide Interbank Financial Telecommunications  
 SYN: Synchronize  
 Sysadmin: System administrator  
 
 ## T
 TAG: Threat Analysis Group  
+Tapjacking: Tap + hijacking  
 TCP: Transmission Control Protocol  
 TDD: Test-Driven Development  
 Tech: Technology  
 TFTP: Trivial File Transfer Protocol  
 THM: TryHackMe  
+Thrunting: Threat hunting  
 TI: Threat Intelligence  
 TLD: Top-Level Domain  
 TLS: Transport Layer Security  
@@ -643,6 +680,7 @@ TOTP: Time-based One-Time Password
 TPM: Trusted Platform Module | Third Party Monitoring  
 TPRM: Third-Party Risk Management  
 TPSA: Third Party Security Assessment  
+Trialware: Trial + software  
 TTL: Time to live  
 TTPs: Tactics, Techniques, and Procedures  
 TTS: Text to Speech  
@@ -691,7 +729,7 @@ WaaS: Wallet as a Service
 WAF: Web Application Firewall | Well-Architected Framework  
 WAN: Wide Area Network  
 WEP: Wired Equivalent Privacy  
-WORM: Write Once Read Many  
+WORM: Write Once, Read Many  
 WPA: Wi-Fi Protected Access  
 WSL: Windows Subsystem for Linux  
 WWW: World Wide Web  
