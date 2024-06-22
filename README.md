@@ -20,6 +20,7 @@ Admin: Administrator
 ADP: Advanced Data Protection  
 Adware: Advertising + software  
 AES: Advanced Encryption Standard  
+AFP: Australian Federal Police  
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AITM: Adversary in the Middle  
@@ -29,10 +30,12 @@ ANSI: American National Standards Institute
 APFS: Apple File System  
 API: Application Programming Interface  
 APK: Android Package Kit | Android Package | Android Application Package  
+APM: Application Performance Monitoring  
 APP: Authorized Push Payment | Application  
 AppSec: Application Security  
 APT: Advanced Persistent Threat  
 AR: Augmented Reality | Automated Reasoning  
+Arb: Arbitrary  
 ARIN: American Registry for Internet Numbers  
 ARM: Advanced RISC Machine | Azure Resource Manager  
 ARP: Address Resolution Protocol  
@@ -57,9 +60,11 @@ AZ: Availability Zone
 B2B: Business-to-business  
 B2C: Business-to-consumer  
 BAS: Breach and Attack Simulation  
+BBM: BlackBerry Messenger  
 BCI: Brain–computer interface  
 BCP: Business Continuity Plan  
 BEC: Business Email Compromise  
+BFF: Backend-for-frontend  
 BFLA: Broken Function Level Authorization  
 BGP: Border Gateway Protocol  
 BIOS: Basic Input/Output System  
@@ -109,6 +114,7 @@ CISC: Complex Instruction Set Computer
 CISO: Chief Information Security Officer  
 CLI: Command Line Interface  
 Clickjacking: Click + hijacking  
+Clickops: Click + operations  
 CMK: Customer-managed key  
 CMS: Content Management System  
 CNA: CVE Numbering Authority  
@@ -122,6 +128,7 @@ Config: Configuration
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
 COTS: Commercial off-the-shelf  
+CPD: Centro de Procesamiento de Datos  
 CPE: Customer-premises equipment | Common Platform Enumeration  
 CPG: Cybersecurity Performance Goal  
 CPU: Central Processing Unit  
@@ -197,7 +204,9 @@ DoS: Denial of Service
 DOSA: Detection Oriented Security Architecture  
 DoT: DNS over TLS  
 DPO: Data Protection Officer  
+DPoP: Demonstrating Proof of Possession  
 DR: Disaster Recovery  
+DRM: Digital Rights Management  
 DSA: Digital Signature Algorithm  
 DSL: Domain-Specific Language  
 DSPM: Data Security Posture Management  
@@ -263,6 +272,7 @@ GCC: GNU Compiler Collection
 GCHQ: Government Communications Headquarters  
 GCP: Google Cloud Platform  
 GDPR: General Data Protection Regulation  
+Gen: Genaration  
 GenAI: Generative AI  
 GIGO: Garbage in, garbage out  
 GNU: GNU's Not Unix  
@@ -280,6 +290,7 @@ HA: High Availability
 HCL: HashiCorp Configuration Language  
 HDD: Hard Disk Drive  
 HI: Human Intelligence  
+HIBP: Have I Been Pwned  
 HID: Human Interface Device  
 HIPAA: Health Insurance Portability and Accountability Act  
 HMAC: Hash-Based Message Authentication Code  
@@ -316,6 +327,7 @@ IDE: Integrated Development Environment
 IDOR: Insecure Direct Object Reference  
 IDP: Identity Provider | Internal Developer Platform  
 IDS: Intrusion Detection System  
+IDV: Identity Verification  
 IE: Internet Explorer  
 IEC: International Electrotechnical Commission  
 IEEE: Institute of Electrical and Electronics Engineers  
@@ -327,6 +339,7 @@ IM: Instant Messaging
 IMAP: Internet Messaging Access Protocol  
 IMEI: International Mobile Equipment Identity  
 INCIBE: Instituto Nacional de Ciberseguridad  
+Info: Information  
 InfoSec: Information Security  
 Infostealer: Information stealer  
 Infotainment: Information and entertainment  
@@ -340,6 +353,7 @@ IPA: iOS App Store Package
 IPC: Inter-Process Communication  
 IPS: Intrusion Prevention System  
 IR: Incident Response  
+IRL: In Real Life  
 IRP: Incident Response Platform  
 IRS: Internal Revenue Service  
 ISAC: Information Sharing and Analysis Center  
@@ -348,6 +362,7 @@ ISO: International Organization for Standardization
 ISP: Internet Service Provider  
 ISV: Independent Software Vendor  
 IT: Information Technology  
+ITDR: Identity Threat Detection and Response  
 IV: Initialization Vector  
 
 ## J
@@ -384,6 +399,7 @@ LTS: Long Term Support
 
 ## M
 M&A: Mergers and acquisitions  
+M2M: Machine-to-machine  
 MaaS: Malware as a Service  
 MAC: Media Access Control | Message Authentication Code  
 Malvertising: Malicious advertising  
@@ -414,6 +430,7 @@ MSP: Managed Service Provider
 MSRC: Microsoft Security Response Center  
 MSSP: Managed Security Service Provider  
 MTA: Mail/Message Transfer Agent  
+mTLS: Mutual Transport Layer Security  
 MTTR: Mean Time To Remediation  
 Mutex: Mutual exclusion  
 MVP: Minimum Viable Product  
@@ -444,6 +461,7 @@ NLP: Natural Language Processing
 Nmap: Network mapper  
 NOC: Network Operations Center  
 NPM: Node Package Manager  
+NPU: Neural Processing Unit  
 NSA: National Security Agency  
 NSG: Network Security Group  
 NT: New Technology  
@@ -465,6 +483,7 @@ OPA: Open Policy Agent
 OpenSSF: Open Source Security Foundation  
 OpEx: Operational Expenditure  
 OPSEC: Operations Security  
+ORM: Object Relational Mapping  
 OS: Operating System  
 OSB: Online Safety Bill  
 OSCP: Offensive Security Certified Professional  
@@ -510,6 +529,7 @@ PIN: Personal Identification Number
 PIP: Pip Installs Packages  
 PITM: Person in the Middle  
 PKC: Public Key Cryptography  
+PKCE: Proof-Key for Code Exchange  
 PKI: Public key infrastructure  
 PLC: Programmable Logic Controller  
 PM: Product Manager  
@@ -575,6 +595,7 @@ RMM: Remote Monitoring and Management
 ROI: Return on investment  
 ROM: Read-Only Memory  
 ROP: Return-Oriented Programming  
+RP: Relying Party  
 RPC: Remote Procedure Call  
 RPO: Recovery Point Objective  
 RSA: Rivest–Shamir–Adleman  
@@ -617,6 +638,7 @@ SIP: System Integrity Protection
 Skiddie: Script kiddie  
 SKU: Stock Keeping Unit  
 SLA: Service Level Agreement  
+SLM: Small Language Model  
 SLSA: Supply chain Levels for Software Artifacts  
 SMB: Server Message Block  
 SMBs: Small and Medium-sized Businesses  
@@ -675,6 +697,7 @@ TOAD: Telephone Oriented Attack Delivery
 TOCTOU: Time-Of-Check Time-Of-Use  
 TOFU: Trust On First Use  
 TOLA: Telecommunications and Other Legislation Amendment  
+TOPS: Trillion operations per second  
 TOR: The Onion Router  
 TOTP: Time-based One-Time Password  
 TPM: Trusted Platform Module | Third Party Monitoring  
@@ -686,6 +709,7 @@ TTPs: Tactics, Techniques, and Procedures
 TTS: Text to Speech  
 
 ## U
+UA: User Agent  
 UAC:  User Account Control  
 UAT: User Acceptance Testing  
 UBA: User Behavior Analytics  
@@ -710,6 +734,7 @@ UX: User Experience
 ## V
 VB: Visual Basic  
 VBA: Visual Basic for Applications  
+VC: Venture Capitalist  
 VCaaS: Voice Cloning as a Service  
 VDI: Virtual Desktop Infrastructure  
 VHD: Virtual Hard Disk  
@@ -731,7 +756,9 @@ WAN: Wide Area Network
 WEP: Wired Equivalent Privacy  
 WORM: Write Once, Read Many  
 WPA: Wi-Fi Protected Access  
+WPS: Wi-Fi Positioning System | Wi-Fi Protected Setup  
 WSL: Windows Subsystem for Linux  
+WWDC: Worldwide Developers Conference  
 WWW: World Wide Web  
 
 ## X
@@ -744,6 +771,7 @@ XXE: XML External Entity
 Y2K: Year 2000  
 YAML: Yet Another Markup Language | YAML Ain't Markup Language  
 YARA: Yet Another Ridiculous Acronym  
+YAST: Yet Another Security Tool  
 
 ## Z
 ZDI: Zero Day Initiative  
