@@ -24,6 +24,7 @@ AFP: Australian Federal Police
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AITM: Adversary in the Middle  
+AJAX: Asynchronous JavaScript and XML  
 ALPR: Automated License Plate Reader  
 AML: Adversarial Machine Learning | Anti-Money Laundering  
 ANSI: American National Standards Institute  
@@ -60,9 +61,12 @@ AZ: Availability Zone
 B2B: Business-to-business  
 B2C: Business-to-consumer  
 BAS: Breach and Attack Simulation  
+BASL: Bridge All Site Links  
 BBM: BlackBerry Messenger  
+BCDR: Business Continuity and Disaster Recovery  
 BCI: Brain–computer interface  
 BCP: Business Continuity Plan  
+BCS: Building Control System  
 BEC: Business Email Compromise  
 BFF: Backend-for-frontend  
 BFLA: Broken Function Level Authorization  
@@ -75,6 +79,7 @@ BOLA: Broken Object Level Authorization
 Bossware: Boss + software  
 Botnet: Robot network  
 BSCP: Burp Suite Certified Practitioner  
+BSOD: Blue Screen of Death  
 BTC: Bitcoin  
 BYOD: Bring Your Own Device  
 BYOK: Bring Your Own Key  
@@ -102,6 +107,7 @@ CEH: Certified Ethical Hacker
 CERT: Computer Emergency Response Team  
 CFAA: Computer Fraud and Abuse Act  
 CFG: Control-flow graph  
+CFP: Call for Papers  
 CGN: Carrier-grade NAT  
 CI: Continuous Integration  
 CIA: Central Intelligence Agency | Confidentiality + Integrity + Availability  
@@ -115,6 +121,7 @@ CISO: Chief Information Security Officer
 CLI: Command Line Interface  
 Clickjacking: Click + hijacking  
 Clickops: Click + operations  
+CMDB: Configuration Management Database  
 CMK: Customer-managed key  
 CMS: Content Management System  
 CNA: CVE Numbering Authority  
@@ -162,6 +169,7 @@ Cyber: Cybersecurity
 ## D
 DA: Domain Admin  
 DaaS: Desktop as a Service  
+DAN: Do Anything Now  
 DAO: Decentralized Autonomous Organization  
 DARPA: Defense Advanced Research Projects Agency  
 DAST: Dynamic Application Security Testing  
@@ -171,6 +179,7 @@ DBaaS: Database as a Service
 DBIR: Data Breach Investigations Report  
 DBMS: Database Management System  
 DC: Domain Controller  
+DCV: Domain Control Validation  
 DDoS: Distributed Denial of Service  
 DeFi: Decentralized Finance  
 Demo: Demonstration  
@@ -182,6 +191,7 @@ DevOps: Development + Operations
 DevSecOps: Development + Security + Operations  
 DFIR: Digital Forensics and Incident Response  
 DHCP: Dynamic Host Configuration Protocol  
+DHS: Department of Homeland Security  
 DID: Decentralized Identifier  
 DKIM: DomainKeys Identified Mail  
 DL: Distribution List  
@@ -215,6 +225,7 @@ DTD: Document Type Definition
 ## E
 E-waste: Electronic waste  
 E2EE: End-to-End Encryption  
+EASM: External Attack Surface Management  
 eBPF: Extended Berkeley Packet Filter  
 EC2: Elastic Compute Cloud  
 ECB: Electronic Code Book  
@@ -319,7 +330,7 @@ IBN: Internet Background Noise
 IC: Intelligence Community  
 IC3: Internet Crime Complaint Center  
 ICMP: Internet Control Message Protocol  
-ICO: Information Commissioner's Office  
+ICO: Information Commissioner's Office | Initial Coin Offering  
 ICS: Industrial Control System  
 ID: Identifier  
 IDA: Interactive Disassembler  
@@ -430,10 +441,11 @@ MSP: Managed Service Provider
 MSRC: Microsoft Security Response Center  
 MSSP: Managed Security Service Provider  
 MTA: Mail/Message Transfer Agent  
+MTD: Mobile Threat Defense  
 mTLS: Mutual Transport Layer Security  
 MTTR: Mean Time To Remediation  
 Mutex: Mutual exclusion  
-MVP: Minimum Viable Product  
+MVP: Minimum Viable Product | Most Valuable Professional  
 MVSP: Minimum Viable Secure Product  
 MX: Mail exchange  
 
@@ -511,8 +523,10 @@ PC: Personal Computer | Program Counter
 PCAP: Packet Capture  
 PCI: Payment Card Industry  
 PDF: Portable Document Format  
+PDR: Public Disclosure Request  
 PE: Portable Executable  
 Pentest: Penetration Test  
+PET: Privacy-Enhancing Technologies  
 PFS: Perfect Forward Secrecy  
 PGP: Pretty Good Privacy  
 PhaaS: Phishing as a Service  
@@ -543,6 +557,7 @@ PoS: Proof of Stake
 POSIX: Portable Operating System Interface  
 POTS: Plain Old Telephone Service  
 PoW: Proof of Work  
+PPA: Privacy-Preserving Attribution  
 PPID: Parent Process Identifier  
 PPP: Plaid Parliament of Pwning  
 PQ: Post-quantum  
@@ -581,6 +596,7 @@ RCE: Remote Code Execution
 RCM: Real Casa de la Moneda  
 RDBMS: Relational Database Management System  
 RDP: Remote Desktop Protocol  
+RE: Reverse Engineering  
 Regex: Regular expression  
 RENIC: Red de Excelencia Nacional de Investigación en Ciberseguridad  
 Repo: Repository  
@@ -599,6 +615,7 @@ RP: Relying Party
 RPC: Remote Procedure Call  
 RPO: Recovery Point Objective  
 RSA: Rivest–Shamir–Adleman  
+RSI: Recursive Self-Improvement  
 RSR: Rapid Security Response  
 RST: Reset  
 RTB: Real Time Bidding  
@@ -616,6 +633,7 @@ SaaS: Software as a Service
 SAI: Sistema de Alimentación Ininterrumpida  
 SAML: Security Assertion Markup Language  
 SAS: Shared Access Signature  
+SASE: Secure Access Service Edge  
 SAST: Static Application Security Testing  
 SbD: Secure by Design  
 SBOM: Software Bill of Materials  
@@ -660,8 +678,10 @@ Spec: Specification
 SPF: Sender Policy Framework  
 SQL: Structured Query Language  
 SQLi: SQL injection  
+SRI: Subresource Integrity  
 SSD: Solid-State Drive  
 SSDF: Secure Software Development Framework  
+SSE: Security Service Edge  
 SSH: Secure Shell  
 SSID: Service Set Identifier  
 SSL: Secure Sockets Layer  
@@ -687,6 +707,7 @@ Tapjacking: Tap + hijacking
 TCP: Transmission Control Protocol  
 TDD: Test-Driven Development  
 Tech: Technology  
+Telco: Telephone company  
 TFTP: Trivial File Transfer Protocol  
 THM: TryHackMe  
 Thrunting: Threat hunting  
@@ -704,15 +725,19 @@ TPM: Trusted Platform Module | Third Party Monitoring
 TPRM: Third-Party Risk Management  
 TPSA: Third Party Security Assessment  
 Trialware: Trial + software  
+TRU: Threat Response Unit  
 TTL: Time to live  
 TTPs: Tactics, Techniques, and Procedures  
 TTS: Text to Speech  
+TV: Television  
+TXT: Text  
 
 ## U
 UA: User Agent  
 UAC:  User Account Control  
 UAT: User Acceptance Testing  
 UBA: User Behavior Analytics  
+uBO: uBlock Origin  
 UDP: User Datagram Protocol  
 UDR: User-Defined Route/Routing  
 UEBA: User and Entity Behavior Analytics  
@@ -754,6 +779,7 @@ WaaS: Wallet as a Service
 WAF: Web Application Firewall | Well-Architected Framework  
 WAN: Wide Area Network  
 WEP: Wired Equivalent Privacy  
+WFH: Work From Home  
 WORM: Write Once, Read Many  
 WPA: Wi-Fi Protected Access  
 WPS: Wi-Fi Positioning System | Wi-Fi Protected Setup  
@@ -775,5 +801,6 @@ YAST: Yet Another Security Tool
 
 ## Z
 ZDI: Zero Day Initiative  
+ZK: Zero Knowledge  
 ZTA: Zero Trust Architecture  
 ZTNA: Zero Trust Network Access  
