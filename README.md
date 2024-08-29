@@ -19,6 +19,7 @@ ADDS: Active Directory Domain Services
 Admin: Administrator  
 ADP: Advanced Data Protection  
 Adware: Advertising + software  
+AE: Authenticated Encryption  
 AES: Advanced Encryption Standard  
 AFP: Australian Federal Police  
 AGI: Artificial General Intelligence  
@@ -142,6 +143,7 @@ CPU: Central Processing Unit
 CR: Carriage Return  
 CRC: Cyclic Redundancy Check  
 Creds: Credentials  
+CRL: Certificate Revocation List  
 CRM: Customer Relationship Management  
 CRS: Core Rule Set | Container Runtime Security  
 CRUD: Create, Read, Update, and Delete  
@@ -198,7 +200,7 @@ DL: Distribution List
 DLL: Dynamic-Link Library  
 DLP: Data Loss Prevention  
 DLS: Dedicated/Data Leak Site  
-DMARC: Domain-based Message Authentication | Reporting and Conformance  
+DMARC: Domain-based Message Authentication, Reporting, and Conformance  
 DMP: Data memory-dependent prefetcher  
 DMS: Document Management System  
 DMZ: Demilitarized zone  
@@ -238,6 +240,7 @@ EDA: Event-driven architecture
 EDR: Endpoint Detection and Response | Emergency Data Request  
 EFF: Electronic Frontier Foundation  
 EHR: Electronic Health Record  
+ELK: Elasticsearch, Logstash, and Kibana  
 Email: Electronic mail  
 ENISA: European Union Agency for Cybersecurity  
 ENS: Esquema Nacional de Seguridad  
@@ -392,6 +395,7 @@ KBA: Knowledge-based authentication
 KEV: Known Exploited Vulnerabilities  
 KPI: Key Performance Indicator  
 KQL: Kusto Query Language  
+KSK: Key Signing Key  
 KVM: Keyboard, Video and Mouse  
 KYC: Know Your Customer  
 
@@ -487,6 +491,7 @@ O365: Office 365
 OAST: Out-of-band Application Security Testing  
 OCPP: Open Charge Point Protocol  
 OCR: Optical Character Recognition  
+OCSP: Online Certificate Status Protocol  
 OFAC: Office of Foreign Assets Control  
 OIDC: OpenID Connect  
 On-prem: On-premises  
@@ -567,6 +572,7 @@ PrivEsc: Privilege Escalation
 PRNG: Pseudorandom Number Generator  
 Prod: Production  
 ProdSec: Product Security  
+PSF: Python Software Foundation  
 PSOA: Private Sector Offensive Actor  
 PTA: Pass Through Authentication  
 PTE: Page Table Entry  
@@ -595,6 +601,7 @@ RBAC: Role-Based Access Control
 RCE: Remote Code Execution  
 RCM: Real Casa de la Moneda  
 RDBMS: Relational Database Management System  
+RDNS: Reverse DNS  
 RDP: Remote Desktop Protocol  
 RE: Reverse Engineering  
 Regex: Regular expression  
@@ -643,6 +650,7 @@ SD: Secure Digital
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
 SDN: Software-defined networking  
+SDP: Software-Defined Perimeter  
 SDV: Software-Defined Vehicle  
 SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
@@ -720,7 +728,9 @@ TOFU: Trust On First Use
 TOLA: Telecommunications and Other Legislation Amendment  
 TOPS: Trillion operations per second  
 TOR: The Onion Router  
+ToS: Terms of Service  
 TOTP: Time-based One-Time Password  
+ToU: Terms of Use  
 TPM: Trusted Platform Module | Third Party Monitoring  
 TPRM: Third-Party Risk Management  
 TPSA: Third Party Security Assessment  
@@ -802,5 +812,6 @@ YAST: Yet Another Security Tool
 ## Z
 ZDI: Zero Day Initiative  
 ZK: Zero Knowledge  
+ZSK: Zone Signing Key  
 ZTA: Zero Trust Architecture  
 ZTNA: Zero Trust Network Access  
