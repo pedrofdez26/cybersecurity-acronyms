@@ -13,6 +13,7 @@ ACE: Arbitrary Code Execution
 ACK: Acknowledgement  
 ACL: Access Control List  
 ACME: Automatic Certificate Management Environment  
+ACR: Automatic Content Recognition  
 AD: Active Directory  
 ADB: Android Debug Bridge  
 ADDS: Active Directory Domain Services  
@@ -72,6 +73,7 @@ BEC: Business Email Compromise
 BFF: Backend-for-frontend  
 BFLA: Broken Function Level Authorization  
 BGP: Border Gateway Protocol  
+BIMI: Brand Indicators for Message Identification  
 BIOS: Basic Input/Output System  
 Bit: Binary digit  
 BLE: Bluetooth Low Energy  
@@ -98,10 +100,13 @@ CapEx: Capital Expenditure
 CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Apart  
 CARTA: Continuous Adaptive Risk and Trust Assessment  
 CASB: Cloud Access Security Broker  
+CBA: Certificate-Based Authentication  
 CBC: Cipher Block Chaining  
 CBDC: Central Bank Digital Currency  
+CCM: Cloud Controls Matrix  
 CCPA: California Consumer Privacy Act  
 CD: Continuous Delivery | Continuous Deployment  
+CDA: Communications Decency Act  
 CDN: Content Delivery Network  
 CDR: Cloud Detection and Response  
 CEH: Certified Ethical Hacker  
@@ -110,6 +115,7 @@ CFAA: Computer Fraud and Abuse Act
 CFG: Control-flow graph  
 CFP: Call for Papers  
 CGN: Carrier-grade NAT  
+Chatbot: Chatter + robot  
 CI: Continuous Integration  
 CIA: Central Intelligence Agency | Confidentiality + Integrity + Availability  
 CIAM: Customer Identity and Access Management  
@@ -132,6 +138,7 @@ CNCF: Cloud Native Computing Foundation
 CNI: Centro Nacional de Inteligencia  
 COBOL: Common Business Oriented Language  
 COMB: Compilation of Many Breaches  
+Comms: Communications  
 Config: Configuration  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
@@ -165,6 +172,7 @@ CVD: Coordinated Vulnerability Disclosure
 CVE: Common Vulnerabilities and Exposures  
 CVSS: Common Vulnerability Scoring System  
 CWE: Common Weakness Enumeration  
+CWP: Cloud Workload Protection  
 CWPP: Cloud Workload Protection Platform  
 Cyber: Cybersecurity  
 
@@ -240,6 +248,7 @@ EDA: Event-driven architecture
 EDR: Endpoint Detection and Response | Emergency Data Request  
 EFF: Electronic Frontier Foundation  
 EHR: Electronic Health Record  
+EICAR: European Institute for Computer Antivirus Research  
 ELK: Elasticsearch, Logstash, and Kibana  
 Email: Electronic mail  
 ENISA: European Union Agency for Cybersecurity  
@@ -310,6 +319,7 @@ HIPAA: Health Insurance Portability and Accountability Act
 HMAC: Hash-Based Message Authentication Code  
 HMI: Human-Machine Interface  
 HNDL: Harvest Now, Decrypt Later  
+HPKP: HTTP Public Key Pinning  
 HSM: Hardware Security Module  
 HSTS: HTTP Strict Transport Security  
 HTB: Hack The Box  
@@ -332,6 +342,7 @@ IAST: Interactive Application Security Testing
 IBN: Internet Background Noise  
 IC: Intelligence Community  
 IC3: Internet Crime Complaint Center  
+ICAP: Internet Content Adaptation Protocol  
 ICMP: Internet Control Message Protocol  
 ICO: Information Commissioner's Office | Initial Coin Offering  
 ICS: Industrial Control System  
@@ -346,6 +357,7 @@ IE: Internet Explorer
 IEC: International Electrotechnical Commission  
 IEEE: Institute of Electrical and Electronics Engineers  
 IETF: Internet Engineering Task Force  
+IGA: Identity Governance and Administration  
 IIoT: Industrial Internet of Things  
 IIS: Internet Information Services  
 ILPIP: Instance-Level Public IP  
@@ -402,6 +414,7 @@ KYC: Know Your Customer
 ## L
 LAN: Local Area Network  
 LDAP: Lightweight Directory Access Protocol  
+LED: Light Emitting Diode  
 LF: Line Feed  
 LFI: Local File Inclusion  
 LIFO: Last In, First Out  
@@ -519,8 +532,9 @@ OWASP: Open Web Application Security Project
 P2P: Peer-to-peer  
 P2S: Point-To-Site  
 PaaS: Platform as a Service  
-PaC: Policy as Code  
-PAM: Pluggable Authentication Modules  
+PaC | PAC: Policy as Code | Proxy Auto-Configuration  
+PAM: Pluggable Authentication Modules | Privileged Access Management  
+PAS: Privileged Access Security  
 PAW: Privileged Access Workstation  
 PAYG: Pay As You Go  
 PBKDF: Password-Based Key Derivation Function  
@@ -650,7 +664,7 @@ SD: Secure Digital
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
 SDN: Software-defined networking  
-SDP: Software-Defined Perimeter  
+SDP: Software-Defined Perimeter | Safe Deployment Practices  
 SDV: Software-Defined Vehicle  
 SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
@@ -711,6 +725,7 @@ Sysadmin: System administrator
 
 ## T
 TAG: Threat Analysis Group  
+TAP: Temporary Access Pass/Passcode  
 Tapjacking: Tap + hijacking  
 TCP: Transmission Control Protocol  
 TDD: Test-Driven Development  
@@ -748,6 +763,7 @@ UAC:  User Account Control
 UAT: User Acceptance Testing  
 UBA: User Behavior Analytics  
 uBO: uBlock Origin  
+UCE: Unsolicited Commercial Email  
 UDP: User Datagram Protocol  
 UDR: User-Defined Route/Routing  
 UEBA: User and Entity Behavior Analytics  
