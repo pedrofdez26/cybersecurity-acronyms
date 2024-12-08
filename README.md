@@ -23,6 +23,7 @@ Adware: Advertising + software
 AE: Authenticated Encryption  
 AES: Advanced Encryption Standard  
 AFP: Australian Federal Police  
+AFU: After First Unlock  
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AITM: Adversary in the Middle  
@@ -44,6 +45,7 @@ ARM: Advanced RISC Machine | Azure Resource Manager
 ARP: Address Resolution Protocol  
 ASCII: American Standard Code for Information Interchange  
 ASG: Application Security Group  
+ASI: Artificial Super Intelligence  
 ASLR: Address Space Layout Randomization  
 ASM: Attack Surface Management  
 ASPM: Application Security Posture Management  
@@ -66,18 +68,19 @@ BAS: Breach and Attack Simulation
 BASL: Bridge All Site Links  
 BBM: BlackBerry Messenger  
 BCDR: Business Continuity and Disaster Recovery  
-BCI: Brain–computer interface  
+BCI: Brain-computer interface  
 BCP: Business Continuity Plan  
 BCS: Building Control System  
 BEC: Business Email Compromise  
 BFF: Backend-for-frontend  
 BFLA: Broken Function Level Authorization  
+BFU: Before First Unlock  
 BGP: Border Gateway Protocol  
 BIMI: Brand Indicators for Message Identification  
 BIOS: Basic Input/Output System  
 Bit: Binary digit  
 BLE: Bluetooth Low Energy  
-BMI: Brain–machine interface  
+BMI: Brain-machine interface  
 BOLA: Broken Object Level Authorization  
 Bossware: Boss + software  
 Botnet: Robot network  
@@ -168,6 +171,7 @@ CTF: Capture the Flag
 CTI: Cyber Threat Intelligence  
 CTO: Chief Technology Officer  
 CTU: Counter Threat Unit  
+cURL: Client for URL  
 CVD: Coordinated Vulnerability Disclosure  
 CVE: Common Vulnerabilities and Exposures  
 CVSS: Common Vulnerability Scoring System  
@@ -203,8 +207,9 @@ DFIR: Digital Forensics and Incident Response
 DHCP: Dynamic Host Configuration Protocol  
 DHS: Department of Homeland Security  
 DID: Decentralized Identifier  
+Disinfo: Disinformation  
 DKIM: DomainKeys Identified Mail  
-DL: Distribution List  
+DL: Distribution List | Deep Learning  
 DLL: Dynamic-Link Library  
 DLP: Data Loss Prevention  
 DLS: Dedicated/Data Leak Site  
@@ -231,6 +236,7 @@ DSA: Digital Signature Algorithm
 DSL: Domain-Specific Language  
 DSPM: Data Security Posture Management  
 DTD: Document Type Definition  
+DV: Domain Validated  
 
 ## E
 E-waste: Electronic waste  
@@ -261,7 +267,7 @@ EPSS: Exploit Prediction Scoring System
 ERP: Enterprise Resource Planning  
 ESG: Email Security Gateway  
 ESNI: Encrypted Server Name Indication  
-ESU: Extended Security Update  
+ESU: Extended Security Updates  
 ETH: Ether  
 ETSI: European Telecommunications Standards Institute  
 EU: European Union  
@@ -276,6 +282,7 @@ FaaS: Function as a Service
 FAT: File Allocation Table  
 FBI: Federal Bureau of Investigation  
 FCC: Federal Communications Commission  
+FedRAMP: Federal Risk and Authorization Management Program  
 FGAC: Fine-Grained Access Control  
 FIDO: Fast Identity Online  
 FIFO: First In, First Out  
@@ -305,6 +312,7 @@ GPS: Global Positioning System
 GPT: Generative Pre-trained Transformer  
 GPU: Graphics Processing Unit  
 GRC: Governance, Risk, and Compliance  
+GRE: Generic Routing Encapsulation  
 GUI: Graphical User Interface  
 GUID: Globally Unique Identifier  
 
@@ -386,6 +394,7 @@ ISAC: Information Sharing and Analysis Center
 ISMS: Information Security Management System  
 ISO: International Organization for Standardization  
 ISP: Internet Service Provider  
+ISRG: Internet Security Research Group  
 ISV: Independent Software Vendor  
 IT: Information Technology  
 ITDR: Identity Threat Detection and Response  
@@ -417,6 +426,7 @@ LDAP: Lightweight Directory Access Protocol
 LED: Light Emitting Diode  
 LF: Line Feed  
 LFI: Local File Inclusion  
+LGM: Large Geospatial Model  
 LIFO: Last In, First Out  
 LLD: Low Level Design  
 LLM: Large Language Model  
@@ -524,6 +534,7 @@ OTA: Over-The-Air
 OTP: One-Time Password  
 OTR: Off-the-Record  
 OU: Organizational Unit  
+OV: Organization Validated  
 OVA: Open Virtualization Application/Appliance  
 OVF: Open Virtualization Format  
 OWASP: Open Web Application Security Project  
@@ -627,6 +638,7 @@ RFI: Remote File Inclusion
 RFID: Radio Frequency Identification  
 RGPD: Reglamento General de Protección de Datos  
 RISC: Reduced Instruction Set Computer  
+RL: Reinforcement Learning  
 RLHF: Reinforcement Learning from Human Feedback  
 RMM: Remote Monitoring and Management  
 ROI: Return on investment  
@@ -635,7 +647,7 @@ ROP: Return-Oriented Programming
 RP: Relying Party  
 RPC: Remote Procedure Call  
 RPO: Recovery Point Objective  
-RSA: Rivest–Shamir–Adleman  
+RSA: Rivest-Shamir-Adleman  
 RSI: Recursive Self-Improvement  
 RSR: Rapid Security Response  
 RST: Reset  
@@ -660,6 +672,7 @@ SbD: Secure by Design
 SBOM: Software Bill of Materials  
 SCA: Software Composition Analysis  
 SCADA: Supervisory Control and Data Acquisition  
+Scareware: Scare + software  
 SD: Secure Digital  
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
@@ -677,8 +690,12 @@ Simjacking: SIM + hijacking
 SIP: System Integrity Protection  
 Skiddie: Script kiddie  
 SKU: Stock Keeping Unit  
+SL: Supervised Learning  
 SLA: Service Level Agreement  
+Slack: Searchable Log of All Communication and Knowledge  
+SLI: Service Level Indicator  
 SLM: Small Language Model  
+SLO: Service Level Objective  
 SLSA: Supply chain Levels for Software Artifacts  
 SMB: Server Message Block  
 SMBs: Small and Medium-sized Businesses  
@@ -769,6 +786,7 @@ UDR: User-Defined Route/Routing
 UEBA: User and Entity Behavior Analytics  
 UEFI: Unified Extensible Firmware Interface  
 UI: User Interface  
+UL: Unsupervised Learning  
 UML: Unified Modeling Language  
 UPnP: Universal Plug and Play  
 UPS: Uninterruptible power supply/source  
@@ -787,6 +805,7 @@ VB: Visual Basic
 VBA: Visual Basic for Applications  
 VC: Venture Capitalist  
 VCaaS: Voice Cloning as a Service  
+vCISO: Virtual CISO  
 VDI: Virtual Desktop Infrastructure  
 VHD: Virtual Hard Disk  
 Vishing: Voice + Phishing  
