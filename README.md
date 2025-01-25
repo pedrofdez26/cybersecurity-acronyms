@@ -16,6 +16,7 @@ ACME: Automatic Certificate Management Environment
 ACR: Automatic Content Recognition  
 AD: Active Directory  
 ADB: Android Debug Bridge  
+ADC: Analog-to-digital converter  
 ADDS: Active Directory Domain Services  
 Admin: Administrator  
 ADP: Advanced Data Protection  
@@ -46,6 +47,7 @@ ARP: Address Resolution Protocol
 ASCII: American Standard Code for Information Interchange  
 ASG: Application Security Group  
 ASI: Artificial Super Intelligence  
+ASIC: Application-Specific Integrated Circuit  
 ASLR: Address Space Layout Randomization  
 ASM: Attack Surface Management  
 ASPM: Application Security Posture Management  
@@ -79,6 +81,7 @@ BGP: Border Gateway Protocol
 BIMI: Brand Indicators for Message Identification  
 BIOS: Basic Input/Output System  
 Bit: Binary digit  
+BL: Business Logic  
 BLE: Bluetooth Low Energy  
 BMI: Brain-machine interface  
 BOLA: Broken Object Level Authorization  
@@ -114,6 +117,7 @@ CDN: Content Delivery Network
 CDR: Cloud Detection and Response  
 CEH: Certified Ethical Hacker  
 CERT: Computer Emergency Response Team  
+CES: Consumer Electronics Show  
 CFAA: Computer Fraud and Abuse Act  
 CFG: Control-flow graph  
 CFP: Call for Papers  
@@ -163,7 +167,7 @@ CSIRT: Computer Security Incident Response Team
 CSO: Chief Security Officer  
 CSP: Content Security Policy | Cloud Service Provider  
 CSPM: Cloud Security Posture Management  
-CSR: Client-Side Rendering  
+CSR: Client-Side Rendering | Certificate Signing Request  
 CSRB: Cyber Safety Review Board  
 CSS: Cascading Style Sheets  
 CSV: Comma-Separated Values  
@@ -183,6 +187,7 @@ Cyber: Cybersecurity
 ## D
 DA: Domain Admin  
 DaaS: Desktop as a Service  
+DAC: Digital-to-analog converter  
 DAN: Do Anything Now  
 DAO: Decentralized Autonomous Organization  
 DARPA: Defense Advanced Research Projects Agency  
@@ -256,6 +261,8 @@ EFF: Electronic Frontier Foundation
 EHR: Electronic Health Record  
 EICAR: European Institute for Computer Antivirus Research  
 ELK: Elasticsearch, Logstash, and Kibana  
+ELZ: Enterprise Landing Zone  
+EM+S: Enterprise Mobility + Security  
 Email: Electronic mail  
 ENISA: European Union Agency for Cybersecurity  
 ENS: Esquema Nacional de Seguridad  
@@ -286,6 +293,7 @@ FedRAMP: Federal Risk and Authorization Management Program
 FGAC: Fine-Grained Access Control  
 FIDO: Fast Identity Online  
 FIFO: First In, First Out  
+Finfluencer: Financial influencer  
 FNMT: Fábrica Nacional de Moneda y Timbre  
 FOIA: Freedom of Information Act  
 FOSS: Free and Open Source Software  
@@ -327,6 +335,7 @@ HIPAA: Health Insurance Portability and Accountability Act
 HMAC: Hash-Based Message Authentication Code  
 HMI: Human-Machine Interface  
 HNDL: Harvest Now, Decrypt Later  
+HOTP: HMAC-Based One-Time Password  
 HPKP: HTTP Public Key Pinning  
 HSM: Hardware Security Module  
 HSTS: HTTP Strict Transport Security  
@@ -343,6 +352,7 @@ IA: Inteligencia Artificial
 IaaS: Infrastructure as a Service  
 IAB: Initial Access Broker  
 IaC: Infrastructure as Code  
+IAG: Inteligencia Artificial Generativa  
 IAM: Identity and Access Management  
 IANA: Internet Assigned Numbers Authority  
 IAPP: International Association of Privacy Professionals  
@@ -434,12 +444,15 @@ LOLBins: Living Off the Land Binaries
 LotL: Living off the Land  
 LOTS: Living Off Trusted Sites  
 LTS: Long Term Support  
+LZ: Landing Zone  
 
 ## M
 M&A: Mergers and acquisitions  
 M2M: Machine-to-machine  
+M365: Microsoft 365  
 MaaS: Malware as a Service  
 MAC: Media Access Control | Message Authentication Code  
+MAID: Mobile Advertising ID  
 Malvertising: Malicious advertising  
 Malware: Malicious software  
 MBA: Master of Business Administration  
@@ -501,7 +514,7 @@ Nmap: Network mapper
 NOC: Network Operations Center  
 NPM: Node Package Manager  
 NPU: Neural Processing Unit  
-NSA: National Security Agency  
+NSA: National Security Agency | Network Security Appliance | Never Say Anything  
 NSG: Network Security Group  
 NT: New Technology  
 NTFS: New Technology File System  
@@ -544,8 +557,10 @@ P2P: Peer-to-peer
 P2S: Point-To-Site  
 PaaS: Platform as a Service  
 PaC | PAC: Policy as Code | Proxy Auto-Configuration  
+PAFACA: Protecting Americans from Foreign Adversary Controlled Applications Act  
 PAM: Pluggable Authentication Modules | Privileged Access Management  
 PAS: Privileged Access Security  
+PAT: Personal Access Token  
 PAW: Privileged Access Workstation  
 PAYG: Pay As You Go  
 PBKDF: Password-Based Key Derivation Function  
@@ -563,7 +578,7 @@ PhaaS: Phishing as a Service
 PHI: Protected Health Information  
 PHP: Personal Home Page | PHP: Hypertext Preprocessor  
 PHS: Password Hash Sync  
-PI: Private Investigator  
+PI: Private Investigator | Prompt Injection  
 PIC: Position Independent Code  
 PID: Process Identifier  
 PIE: Position Independent Executable | Pre-Internet Encryption  
@@ -588,6 +603,7 @@ POSIX: Portable Operating System Interface
 POTS: Plain Old Telephone Service  
 PoW: Proof of Work  
 PPA: Privacy-Preserving Attribution  
+PPE: Poisoned Pipeline Execution  
 PPID: Parent Process Identifier  
 PPP: Plaid Parliament of Pwning  
 PQ: Post-quantum  
@@ -632,6 +648,7 @@ RE: Reverse Engineering
 Regex: Regular expression  
 RENIC: Red de Excelencia Nacional de Investigación en Ciberseguridad  
 Repo: Repository  
+Repo-jacking: Dependency repository hijacking  
 REST: Representational State Transfer  
 RFC: Request for Comments  
 RFI: Remote File Inclusion  
@@ -667,12 +684,15 @@ SAI: Sistema de Alimentación Ininterrumpida
 SAML: Security Assertion Markup Language  
 SAS: Shared Access Signature  
 SASE: Secure Access Service Edge  
+SASL: Simple Authentication and Security Layer  
 SAST: Static Application Security Testing  
 SbD: Secure by Design  
 SBOM: Software Bill of Materials  
 SCA: Software Composition Analysis  
 SCADA: Supervisory Control and Data Acquisition  
 Scareware: Scare + software  
+SCIM: System for Cross-Domain Identity Management  
+SCM: Source Code Management  
 SD: Secure Digital  
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
@@ -720,7 +740,7 @@ SQLi: SQL injection
 SRI: Subresource Integrity  
 SSD: Solid-State Drive  
 SSDF: Secure Software Development Framework  
-SSE: Security Service Edge  
+SSE: Security Service Edge | Server-Sent Events  
 SSH: Secure Shell  
 SSID: Service Set Identifier  
 SSL: Secure Sockets Layer  
@@ -741,6 +761,7 @@ SYN: Synchronize
 Sysadmin: System administrator  
 
 ## T
+T&C: Terms and Conditions  
 TAG: Threat Analysis Group  
 TAP: Temporary Access Pass/Passcode  
 Tapjacking: Tap + hijacking  
@@ -748,6 +769,7 @@ TCP: Transmission Control Protocol
 TDD: Test-Driven Development  
 Tech: Technology  
 Telco: Telephone company  
+Telecom: Telecommunications  
 TFTP: Trivial File Transfer Protocol  
 THM: TryHackMe  
 Thrunting: Threat hunting  
