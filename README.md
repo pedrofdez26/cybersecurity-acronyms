@@ -19,7 +19,7 @@ ADB: Android Debug Bridge
 ADC: Analog-to-digital converter  
 ADDS: Active Directory Domain Services  
 Admin: Administrator  
-ADP: Advanced Data Protection  
+ADP: Advanced Data Protection | Authorized Data Publisher  
 Adware: Advertising + software  
 AE: Authenticated Encryption  
 AES: Advanced Encryption Standard  
@@ -109,6 +109,7 @@ CASB: Cloud Access Security Broker
 CBA: Certificate-Based Authentication  
 CBC: Cipher Block Chaining  
 CBDC: Central Bank Digital Currency  
+CCCS: Canadian Centre for Cyber Security  
 CCM: Cloud Controls Matrix  
 CCPA: California Consumer Privacy Act  
 CD: Continuous Delivery | Continuous Deployment  
@@ -163,6 +164,7 @@ CRS: Core Rule Set | Container Runtime Security
 CRUD: Create, Read, Update, and Delete  
 CS: Computer Science  
 CSA: Cloud Security Alliance  
+CSI: Cybersecurity Information Sheet  
 CSIRT: Computer Security Incident Response Team  
 CSO: Chief Security Officer  
 CSP: Content Security Policy | Cloud Service Provider  
@@ -348,6 +350,7 @@ HUMINT: Human Intelligence
 ## I
 I+D: Investigación y Desarrollo  
 I+D+I: Investigación, Desarrollo e Innovación  
+I/O: Input/Output  
 IA: Inteligencia Artificial  
 IaaS: Infrastructure as a Service  
 IAB: Initial Access Broker  
@@ -389,6 +392,7 @@ Infostealer: Information stealer
 Infotainment: Information and entertainment  
 Infra: Infrastructure  
 Intel: Intelligence  
+IO: Information Operation  
 IoA: Indicator of Attack  
 IOPS: Input/Output Operations Per Second  
 IoT: Internet of Things  
@@ -424,6 +428,7 @@ JWT: JSON Web Token
 K8s: Kubernetes  
 KBA: Knowledge-based authentication  
 KEV: Known Exploited Vulnerabilities  
+Keylogger: Keyboard/keystroke logger  
 KPI: Key Performance Indicator  
 KQL: Kusto Query Language  
 KSK: Key Signing Key  
@@ -443,6 +448,7 @@ LLM: Large Language Model
 LOLBins: Living Off the Land Binaries  
 LotL: Living off the Land  
 LOTS: Living Off Trusted Sites  
+LSASS: Local Security Authority Subsystem Service  
 LTS: Long Term Support  
 LZ: Landing Zone  
 
@@ -455,11 +461,14 @@ MAC: Media Access Control | Message Authentication Code
 MAID: Mobile Advertising ID  
 Malvertising: Malicious advertising  
 Malware: Malicious software  
+MAM: Mobile Application Management  
 MBA: Master of Business Administration  
+MCA: Malicious Cyber Actor  
 MCRR: Managed Cyber Risk Reduction  
 MCSB: Microsoft Cloud Security Benchmark  
 MD5: Message Digest 5  
 MDE: Microsoft Defender for Endpoint  
+mDL: Mobile Driver's License  
 MDM: Mobile Device Management  
 MDR: Managed Detection and Response  
 MDVM: Microsoft Defender Vulnerability Management  
@@ -614,12 +623,14 @@ PRNG: Pseudorandom Number Generator
 Prod: Production  
 ProdSec: Product Security  
 PSF: Python Software Foundation  
+PSK: Pre-Shared Key  
 PSOA: Private Sector Offensive Actor  
 PTA: Pass Through Authentication  
 PTE: Page Table Entry  
 PUC: Personal Unblocking Code  
 PUK: Personal Unblocking Key  
 PUP: Potentially Unwanted Program  
+PWA: Progressive Web Application  
 PyPI: Python Package Index  
 
 ## Q
@@ -701,6 +712,7 @@ SDP: Software-Defined Perimeter | Safe Deployment Practices
 SDV: Software-Defined Vehicle  
 SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
+SFTP: SSH/Secure File Transfer Protocol  
 SHA: Secure Hash Algorithm  
 SIA: Secure Internet Access  
 SICI: Systemically Important Critical Infrastructure  
@@ -776,6 +788,7 @@ Thrunting: Threat hunting
 TI: Threat Intelligence  
 TLD: Top-Level Domain  
 TLS: Transport Layer Security  
+TM: Threat Modeling  
 TOAD: Telephone Oriented Attack Delivery  
 TOCTOU: Time-Of-Check Time-Of-Use  
 TOFU: Trust On First Use  
@@ -842,6 +855,7 @@ VS: Vulnerability Scan
 Vuln: Vulnerability  
 
 ## W
+W3C: World Wide Web Consortium  
 WaaS: Wallet as a Service  
 WAF: Web Application Firewall | Well-Architected Framework  
 WAN: Wide Area Network  
