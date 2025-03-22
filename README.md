@@ -27,6 +27,7 @@ AFP: Australian Federal Police
 AFU: After First Unlock  
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
+AIA: Authority Information Access  
 AITM: Adversary in the Middle  
 AJAX: Asynchronous JavaScript and XML  
 ALPR: Automated License Plate Reader  
@@ -205,6 +206,7 @@ DDoS: Distributed Denial of Service
 DeFi: Decentralized Finance  
 Demo: Demonstration  
 Demoware: Demo + software  
+DEN: Defender Expert Notification  
 DEP: Data Execution Prevention  
 DES: Data Encryption Standard  
 Dev: Developer | Development  
@@ -241,6 +243,7 @@ DR: Disaster Recovery
 DRM: Digital Rights Management  
 DSA: Digital Signature Algorithm  
 DSL: Domain-Specific Language  
+DSP: Demand Side Platform  
 DSPM: Data Security Posture Management  
 DTD: Document Type Definition  
 DV: Domain Validated  
@@ -275,6 +278,7 @@ EPP: Endpoint Protection Platform
 EPSS: Exploit Prediction Scoring System  
 ERP: Enterprise Resource Planning  
 ESG: Email Security Gateway  
+eSIM: Embedded SIM  
 ESNI: Encrypted Server Name Indication  
 ESU: Extended Security Updates  
 ETH: Ether  
@@ -334,6 +338,7 @@ HI: Human Intelligence
 HIBP: Have I Been Pwned  
 HID: Human Interface Device  
 HIPAA: Health Insurance Portability and Accountability Act  
+HITL: Human-in-the-Loop  
 HMAC: Hash-Based Message Authentication Code  
 HMI: Human-Machine Interface  
 HNDL: Harvest Now, Decrypt Later  
@@ -361,7 +366,7 @@ IANA: Internet Assigned Numbers Authority
 IAPP: International Association of Privacy Professionals  
 IAST: Interactive Application Security Testing  
 IBN: Internet Background Noise  
-IC: Intelligence Community  
+IC: Intelligence Community | Integrated Circuit  
 IC3: Internet Crime Complaint Center  
 ICAP: Internet Content Adaptation Protocol  
 ICMP: Internet Control Message Protocol  
@@ -381,6 +386,7 @@ IETF: Internet Engineering Task Force
 IGA: Identity Governance and Administration  
 IIoT: Industrial Internet of Things  
 IIS: Internet Information Services  
+IKE: Internet Key Exchange  
 ILPIP: Instance-Level Public IP  
 IM: Instant Messaging  
 IMAP: Internet Messaging Access Protocol  
@@ -400,6 +406,7 @@ IP: Internet Protocol | Intellectual Property | Instruction Pointer
 IPA: iOS App Store Package  
 IPC: Inter-Process Communication  
 IPS: Intrusion Prevention System  
+IPsec: Internet Protocol Security  
 IR: Incident Response  
 IRL: In Real Life  
 IRP: Incident Response Platform  
@@ -454,7 +461,7 @@ LZ: Landing Zone
 
 ## M
 M&A: Mergers and acquisitions  
-M2M: Machine-to-machine  
+M2M: Machine-to-Machine  
 M365: Microsoft 365  
 MaaS: Malware as a Service  
 MAC: Media Access Control | Message Authentication Code  
@@ -493,10 +500,12 @@ MTA: Mail/Message Transfer Agent
 MTD: Mobile Threat Defense  
 mTLS: Mutual Transport Layer Security  
 MTTR: Mean Time To Remediation  
+Multisig: Multiple signatures  
 Mutex: Mutual exclusion  
 MVP: Minimum Viable Product | Most Valuable Professional  
 MVSP: Minimum Viable Secure Product  
 MX: Mail exchange  
+MXDR: Managed XDR  
 
 ## N
 NAC: Network Access Control  
@@ -618,10 +627,12 @@ PPP: Plaid Parliament of Pwning
 PQ: Post-quantum  
 PQC: Post-quantum cryptography  
 PR: Pull Request  
+Prep: Preparation  
 PrivEsc: Privilege Escalation  
 PRNG: Pseudorandom Number Generator  
 Prod: Production  
 ProdSec: Product Security  
+PRT: Primary Refresh Token  
 PSF: Python Software Foundation  
 PSK: Pre-Shared Key  
 PSOA: Private Sector Offensive Actor  
@@ -665,6 +676,7 @@ RFC: Request for Comments
 RFI: Remote File Inclusion  
 RFID: Radio Frequency Identification  
 RGPD: Reglamento General de Protección de Datos  
+RIS: Reconfigurable Intelligent Surface  
 RISC: Reduced Instruction Set Computer  
 RL: Reinforcement Learning  
 RLHF: Reinforcement Learning from Human Feedback  
@@ -680,7 +692,7 @@ RSI: Recursive Self-Improvement
 RSR: Rapid Security Response  
 RST: Reset  
 RTB: Real Time Bidding  
-RTF: Rich Text Format  
+RTF: Rich Text Format | Role, Task, Format  
 RTO: Recovery Time Objective  
 RTOS: Real-Time Operating System  
 RTU: Remote Terminal Unit  
@@ -690,6 +702,7 @@ RVA: Risk and Vulnerability Assessment
 S2C2F: Secure Supply Chain Consumption Framework  
 S2S: Site-To-Site  
 S3: Simple Storage Service  
+SA: Security Association  
 SaaS: Software as a Service  
 SAI: Sistema de Alimentación Ininterrumpida  
 SAML: Security Assertion Markup Language  
@@ -705,6 +718,7 @@ Scareware: Scare + software
 SCIM: System for Cross-Domain Identity Management  
 SCM: Source Code Management  
 SD: Secure Digital  
+SD-JWT: Selective Disclosure for JWTs  
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
 SDN: Software-defined networking  
@@ -712,12 +726,14 @@ SDP: Software-Defined Perimeter | Safe Deployment Practices
 SDV: Software-Defined Vehicle  
 SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
+Sev: Severity  
 SFTP: SSH/Secure File Transfer Protocol  
 SHA: Secure Hash Algorithm  
 SIA: Secure Internet Access  
 SICI: Systemically Important Critical Infrastructure  
 SIEM: Security Information and Event Management  
 SIGINT: Signals intelligence  
+SIM: Subscriber Identity Module  
 Simjacking: SIM + hijacking  
 SIP: System Integrity Protection  
 Skiddie: Script kiddie  
@@ -758,6 +774,7 @@ SSID: Service Set Identifier
 SSL: Secure Sockets Layer  
 SSN: Social Security number  
 SSO: Single Sign On  
+SSP: Supply Side Platform  
 SSPM: SaaS Security Posture Management  
 SSPR: Self-Service Password Reset  
 SSR: Server-Side Rendering  
@@ -780,6 +797,7 @@ Tapjacking: Tap + hijacking
 TCP: Transmission Control Protocol  
 TDD: Test-Driven Development  
 Tech: Technology  
+TEE: Trusted Execution Environment  
 Telco: Telephone company  
 Telecom: Telecommunications  
 TFTP: Trivial File Transfer Protocol  
@@ -864,6 +882,7 @@ WFH: Work From Home
 WORM: Write Once, Read Many  
 WPA: Wi-Fi Protected Access  
 WPS: Wi-Fi Positioning System | Wi-Fi Protected Setup  
+WS-Fed: Web Services Federation  
 WSL: Windows Subsystem for Linux  
 WWDC: Worldwide Developers Conference  
 WWW: World Wide Web  
