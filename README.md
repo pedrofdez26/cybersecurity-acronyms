@@ -28,6 +28,7 @@ AFU: After First Unlock
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AIA: Authority Information Access  
+AISPM: Artificial Intelligence Security Posture Management  
 AITM: Adversary in the Middle  
 AJAX: Asynchronous JavaScript and XML  
 ALPR: Automated License Plate Reader  
@@ -108,6 +109,7 @@ CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Ap
 CARTA: Continuous Adaptive Risk and Trust Assessment  
 CASB: Cloud Access Security Broker  
 CBA: Certificate-Based Authentication  
+CBaaS: Cybersecurity as a Service  
 CBC: Cipher Block Chaining  
 CBDC: Central Bank Digital Currency  
 CCCS: Canadian Centre for Cyber Security  
@@ -129,6 +131,7 @@ CI: Continuous Integration
 CIA: Central Intelligence Agency | Confidentiality + Integrity + Availability  
 CIAM: Customer Identity and Access Management  
 CIDR: Classless Inter-Domain Routing  
+CIEM: Cloud Infrastructure Entitlement Management  
 CIRT: Computer Incident Response Team  
 CIS: Center for Internet Security  
 CISA: Cybersecurity and Infrastructure Security Agency  
@@ -148,6 +151,7 @@ CNI: Centro Nacional de Inteligencia
 COBOL: Common Business Oriented Language  
 COMB: Compilation of Many Breaches  
 Comms: Communications  
+COMSEC: Communications Security  
 Config: Configuration  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
@@ -165,6 +169,7 @@ CRS: Core Rule Set | Container Runtime Security
 CRUD: Create, Read, Update, and Delete  
 CS: Computer Science  
 CSA: Cloud Security Alliance  
+CSE: Client-side encryption  
 CSI: Cybersecurity Information Sheet  
 CSIRT: Computer Security Incident Response Team  
 CSO: Chief Security Officer  
@@ -200,6 +205,7 @@ DBA: Database Administrator
 DBaaS: Database as a Service  
 DBIR: Data Breach Investigations Report  
 DBMS: Database Management System  
+DBSC: Device Bound Session Credentials  
 DC: Domain Controller  
 DCV: Domain Control Validation  
 DDoS: Distributed Denial of Service  
@@ -217,6 +223,7 @@ DHCP: Dynamic Host Configuration Protocol
 DHS: Department of Homeland Security  
 DID: Decentralized Identifier  
 Disinfo: Disinformation  
+Distro: Distribution  
 DKIM: DomainKeys Identified Mail  
 DL: Distribution List | Deep Learning  
 DLL: Dynamic-Link Library  
@@ -273,6 +280,7 @@ ENISA: European Union Agency for Cybersecurity
 ENS: Esquema Nacional de Seguridad  
 EOL: End Of Life  
 EoP: Elevation of Privilege  
+EOS: End Of Service/Support  
 EPDR: Endpoint Protection, Detection and Response  
 EPP: Endpoint Protection Platform  
 EPSS: Exploit Prediction Scoring System  
@@ -316,7 +324,7 @@ GCC: GNU Compiler Collection
 GCHQ: Government Communications Headquarters  
 GCP: Google Cloud Platform  
 GDPR: General Data Protection Regulation  
-Gen: Genaration  
+Gen: Generation  
 GenAI: Generative AI  
 GIGO: Garbage in, garbage out  
 GNU: GNU's Not Unix  
@@ -420,6 +428,7 @@ ISV: Independent Software Vendor
 IT: Information Technology  
 ITDR: Identity Threat Detection and Response  
 IV: Initialization Vector  
+IWA: Integrated Windows Authentication  
 
 ## J
 JAR: Java Archive  
@@ -434,6 +443,7 @@ JWT: JSON Web Token
 ## K
 K8s: Kubernetes  
 KBA: Knowledge-based authentication  
+KEK: Key Encryption/Exchange Key  
 KEV: Known Exploited Vulnerabilities  
 Keylogger: Keyboard/keystroke logger  
 KPI: Key Performance Indicator  
@@ -489,6 +499,7 @@ MO: Modus Operandi
 MOAB: Mother of All Breaches  
 MOTW: Mark of the Web  
 MPA: Multi-Page Application  
+MPIC: Multi-Perspective Issuance Corroboration  
 MPLS: Multiprotocol Label Switching  
 MQTT: Message Queuing Telemetry Transport  
 MRO: Memory Read Out  
@@ -615,6 +626,7 @@ PMMU: Paged Memory Management Unit
 PNT: Positioning, Navigation and Timing  
 PO: Purchase Order  
 PoC: Proof of Concept  
+PoLP: Principle of Least Privilege  
 POP: Post Office Protocol  
 PoS: Proof of Stake  
 POSIX: Portable Operating System Interface  
@@ -663,6 +675,7 @@ RAT: Remote Administration Tool | Remote Access Trojan | Recovery Asset Team
 RBAC: Role-Based Access Control  
 RCE: Remote Code Execution  
 RCM: Real Casa de la Moneda  
+RCS: Rich Communication Services  
 RDBMS: Relational Database Management System  
 RDNS: Reverse DNS  
 RDP: Remote Desktop Protocol  
@@ -676,10 +689,12 @@ RFC: Request for Comments
 RFI: Remote File Inclusion  
 RFID: Radio Frequency Identification  
 RGPD: Reglamento General de Protección de Datos  
+RIR: Regional Internet Registry  
 RIS: Reconfigurable Intelligent Surface  
 RISC: Reduced Instruction Set Computer  
 RL: Reinforcement Learning  
 RLHF: Reinforcement Learning from Human Feedback  
+RLS: Row-Level Security  
 RMM: Remote Monitoring and Management  
 ROI: Return on investment  
 ROM: Read-Only Memory  
@@ -700,6 +715,7 @@ RVA: Risk and Vulnerability Assessment
 
 ## S
 S2C2F: Secure Supply Chain Consumption Framework  
+S2I: Source-to-Image  
 S2S: Site-To-Site  
 S3: Simple Storage Service  
 SA: Security Association  
@@ -766,6 +782,7 @@ SPF: Sender Policy Framework
 SQL: Structured Query Language  
 SQLi: SQL injection  
 SRI: Subresource Integrity  
+SRM: Software Risk Manager  
 SSD: Solid-State Drive  
 SSDF: Secure Software Development Framework  
 SSE: Security Service Edge | Server-Sent Events  
@@ -889,7 +906,9 @@ WWW: World Wide Web
 
 ## X
 XDR: Extended Detection and Response  
+XFF: X-Forwarded-For  
 XML: Extensible Markup Language  
+XPIA: Cross-prompt injection attack  
 XSS: Cross-Site Scripting  
 XXE: XML External Entity  
 
