@@ -50,6 +50,7 @@ ASCII: American Standard Code for Information Interchange
 ASG: Application Security Group  
 ASI: Artificial Super Intelligence  
 ASIC: Application-Specific Integrated Circuit  
+ASL: AI Safety Level  
 ASLR: Address Space Layout Randomization  
 ASM: Attack Surface Management  
 ASPM: Application Security Posture Management  
@@ -142,6 +143,7 @@ Clickjacking: Click + hijacking
 Clickops: Click + operations  
 CMDB: Configuration Management Database  
 CMK: Customer-managed key  
+CMMI: Capability Maturity Model Integration  
 CMS: Content Management System  
 CNA: CVE Numbering Authority  
 CNAME: Canonical Name  
@@ -155,6 +157,7 @@ COMSEC: Communications Security
 Config: Configuration  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
+CoT: Chain of Thought  
 COTS: Commercial off-the-shelf  
 CPD: Centro de Procesamiento de Datos  
 CPE: Customer-premises equipment | Common Platform Enumeration  
@@ -268,6 +271,7 @@ ECH: Encrypted Client Hello
 eCrime: Electronic Crime  
 ECU: Electronic Control Unit  
 EDA: Event-driven architecture  
+EDNS: Encrypted DNS  
 EDR: Endpoint Detection and Response | Emergency Data Request  
 EFF: Electronic Frontier Foundation  
 EHR: Electronic Health Record  
@@ -465,6 +469,7 @@ LLM: Large Language Model
 LOLBins: Living Off the Land Binaries  
 LotL: Living off the Land  
 LOTS: Living Off Trusted Sites  
+LRM: Large Reasoning Model  
 LSASS: Local Security Authority Subsystem Service  
 LTS: Long Term Support  
 LZ: Landing Zone  
@@ -481,6 +486,7 @@ Malware: Malicious software
 MAM: Mobile Application Management  
 MBA: Master of Business Administration  
 MCA: Malicious Cyber Actor  
+MCP: Model Context Protocol  
 MCRR: Managed Cyber Risk Reduction  
 MCSB: Microsoft Cloud Security Benchmark  
 MD5: Message Digest 5  
@@ -543,6 +549,7 @@ Nmap: Network mapper
 NOC: Network Operations Center  
 NPM: Node Package Manager  
 NPU: Neural Processing Unit  
+NRD: Newly Registered Domain  
 NSA: National Security Agency | Network Security Appliance | Never Say Anything  
 NSG: Network Security Group  
 NT: New Technology  
@@ -600,7 +607,7 @@ PDF: Portable Document Format
 PDR: Public Disclosure Request  
 PE: Portable Executable  
 Pentest: Penetration Test  
-PET: Privacy-Enhancing Technologies  
+PETs: Privacy-enhancing technologies  
 PFS: Perfect Forward Secrecy  
 PGP: Pretty Good Privacy  
 PhaaS: Phishing as a Service  
@@ -779,6 +786,7 @@ SOUP: Software of Unknown/Uncertain Pedigree/Provenance
 SPA: Single-Page Application  
 Spec: Specification  
 SPF: Sender Policy Framework  
+SPOF: Single point of failure  
 SQL: Structured Query Language  
 SQLi: SQL injection  
 SRI: Subresource Integrity  
