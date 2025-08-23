@@ -7,6 +7,7 @@ List of acronyms (and also some abbreviations) that are somehow related to cyber
 3PM: Third Party Monitoring  
 
 ## A
+A2A: Agent2Agent  
 ABAC: Attribute-Based Access Control  
 Abandonware: Abandoned + software  
 ACE: Arbitrary Code Execution  
@@ -28,6 +29,7 @@ AFU: After First Unlock
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AIA: Authority Information Access  
+AIO: AI Overview  
 AISPM: Artificial Intelligence Security Posture Management  
 AITM: Adversary in the Middle  
 AJAX: Asynchronous JavaScript and XML  
@@ -57,6 +59,7 @@ ASPM: Application Security Posture Management
 ASR: Architecture Security Review  
 AST: Abstract Syntax Tree  
 ASVS: Application Security Verification Standard  
+ATLAS: Adversarial Threat Landscape for Artificial-Intelligence Systems  
 ATM: Automated Teller Machine  
 ATO: Account Takeover  
 ATT&CK: Adversarial Tactics, Techniques, and Common Knowledge  
@@ -90,8 +93,10 @@ BMI: Brain-machine interface
 BOLA: Broken Object Level Authorization  
 Bossware: Boss + software  
 Botnet: Robot network  
+BPO: Business Process Outsourcing  
 BSCP: Burp Suite Certified Practitioner  
-BSOD: Blue Screen of Death  
+BSOD: Blue/Black Screen of Death  
+BTAT: Bulk Transfer After Termination  
 BTC: Bitcoin  
 BYOD: Bring Your Own Device  
 BYOK: Bring Your Own Key  
@@ -126,7 +131,7 @@ CES: Consumer Electronics Show
 CFAA: Computer Fraud and Abuse Act  
 CFG: Control-flow graph  
 CFP: Call for Papers  
-CGN: Carrier-grade NAT  
+CGN | CGNAT: Carrier-grade NAT  
 Chatbot: Chatter + robot  
 CI: Continuous Integration  
 CIA: Central Intelligence Agency | Confidentiality + Integrity + Availability  
@@ -199,6 +204,7 @@ Cyber: Cybersecurity
 DA: Domain Admin  
 DaaS: Desktop as a Service  
 DAC: Digital-to-analog converter  
+DAG: Directed Acyclic Graph  
 DAN: Do Anything Now  
 DAO: Decentralized Autonomous Organization  
 DARPA: Defense Advanced Research Projects Agency  
@@ -224,7 +230,7 @@ DevSecOps: Development + Security + Operations
 DFIR: Digital Forensics and Incident Response  
 DHCP: Dynamic Host Configuration Protocol  
 DHS: Department of Homeland Security  
-DID: Decentralized Identifier  
+DID | DiD: Decentralized Identifier | Defense in Depth  
 Disinfo: Disinformation  
 Distro: Distribution  
 DKIM: DomainKeys Identified Mail  
@@ -319,6 +325,7 @@ FQDN: Fully Qualified Domain Name
 Freeware: Free + software  
 FS: Forward Secrecy  
 FSF: Free Software Foundation  
+FT: Fine-Tuning  
 
 ## G
 GA: Global Administrator | General Availability  
@@ -331,6 +338,7 @@ GDPR: General Data Protection Regulation
 Gen: Generation  
 GenAI: Generative AI  
 GIGO: Garbage in, garbage out  
+GKE: Google Kubernetes Engine  
 GNU: GNU's Not Unix  
 GPC: Global Privacy Control  
 GPL: General Public License  
@@ -471,6 +479,7 @@ LotL: Living off the Land
 LOTS: Living Off Trusted Sites  
 LRM: Large Reasoning Model  
 LSASS: Local Security Authority Subsystem Service  
+LSN: Large-scale NAT  
 LTS: Long Term Support  
 LZ: Landing Zone  
 
@@ -501,6 +510,7 @@ MITM: Man in the Middle, Manipulator in the Middle
 ML: Machine Learning  
 MLSecOps: Machine Learning + Security + Operations  
 MMU: Memory Management Unit  
+MNO: Mobile Network Operator  
 MO: Modus Operandi  
 MOAB: Mother of All Breaches  
 MOTW: Mark of the Web  
@@ -510,6 +520,7 @@ MPLS: Multiprotocol Label Switching
 MQTT: Message Queuing Telemetry Transport  
 MRO: Memory Read Out  
 MSA: Microsoft account  
+MSL: Memory Safe Language  
 MSP: Managed Service Provider  
 MSRC: Microsoft Security Response Center  
 MSSP: Managed Security Service Provider  
@@ -519,6 +530,7 @@ mTLS: Mutual Transport Layer Security
 MTTR: Mean Time To Remediation  
 Multisig: Multiple signatures  
 Mutex: Mutual exclusion  
+MVNO: Mobile Virtual Network Operator  
 MVP: Minimum Viable Product | Most Valuable Professional  
 MVSP: Minimum Viable Secure Product  
 MX: Mail exchange  
@@ -550,6 +562,7 @@ NOC: Network Operations Center
 NPM: Node Package Manager  
 NPU: Neural Processing Unit  
 NRD: Newly Registered Domain  
+NRT: Near-real-time  
 NSA: National Security Agency | Network Security Appliance | Never Say Anything  
 NSG: Network Security Group  
 NT: New Technology  
@@ -568,6 +581,7 @@ OFAC: Office of Foreign Assets Control
 OIDC: OpenID Connect  
 On-prem: On-premises  
 OOP: Object-oriented programming  
+OOTB: Out of the box  
 OPA: Open Policy Agent  
 OpenSSF: Open Source Security Foundation  
 OpEx: Operational Expenditure  
@@ -604,9 +618,11 @@ PC: Personal Computer | Program Counter
 PCAP: Packet Capture  
 PCI: Payment Card Industry  
 PDF: Portable Document Format  
+PDP: Policy Decision Point  
 PDR: Public Disclosure Request  
 PE: Portable Executable  
 Pentest: Penetration Test  
+PEP: Policy Enforcement Point  
 PETs: Privacy-enhancing technologies  
 PFS: Perfect Forward Secrecy  
 PGP: Pretty Good Privacy  
@@ -633,7 +649,9 @@ PMMU: Paged Memory Management Unit
 PNT: Positioning, Navigation and Timing  
 PO: Purchase Order  
 PoC: Proof of Concept  
+PoLA: Principle of Least Authority  
 PoLP: Principle of Least Privilege  
+PoMP: Principle of Minimal Privilege  
 POP: Post Office Protocol  
 PoS: Proof of Stake  
 POSIX: Portable Operating System Interface  
@@ -674,6 +692,7 @@ Qubit: Quantum bit
 R&D: Research and Development  
 RaaS: Ransomware as a Service  
 RACI: Responsible, Accountable, Consulted, Informed  
+RAFT: Retrieval Augmented Fine-Tuning  
 RAM: Random Access Memory  
 Ransomware: Ransom + software  
 RAR: Roshal Archive  
@@ -687,6 +706,7 @@ RDBMS: Relational Database Management System
 RDNS: Reverse DNS  
 RDP: Remote Desktop Protocol  
 RE: Reverse Engineering  
+Recon: Reconnaissance  
 Regex: Regular expression  
 RENIC: Red de Excelencia Nacional de Investigación en Ciberseguridad  
 Repo: Repository  
@@ -700,6 +720,7 @@ RIR: Regional Internet Registry
 RIS: Reconfigurable Intelligent Surface  
 RISC: Reduced Instruction Set Computer  
 RL: Reinforcement Learning  
+RLAIF: Reinforcement Learning from AI Feedback  
 RLHF: Reinforcement Learning from Human Feedback  
 RLS: Row-Level Security  
 RMM: Remote Monitoring and Management  
@@ -719,6 +740,7 @@ RTO: Recovery Time Objective
 RTOS: Real-Time Operating System  
 RTU: Remote Terminal Unit  
 RVA: Risk and Vulnerability Assessment  
+RWA: Real World Asset  
 
 ## S
 S2C2F: Secure Supply Chain Consumption Framework  
@@ -749,7 +771,9 @@ SDP: Software-Defined Perimeter | Safe Deployment Practices
 SDV: Software-Defined Vehicle  
 SecDataOps: Security + Data + Operations  
 SEO: Search Engine Optimization  
+SERP: Search Engine Results Page  
 Sev: Severity  
+SFT: Supervised Fine-Tuning  
 SFTP: SSH/Secure File Transfer Protocol  
 SHA: Secure Hash Algorithm  
 SIA: Secure Internet Access  
@@ -787,6 +811,7 @@ SPA: Single-Page Application
 Spec: Specification  
 SPF: Sender Policy Framework  
 SPOF: Single point of failure  
+SPOG: Single pane of glass  
 SQL: Structured Query Language  
 SQLi: SQL injection  
 SRI: Subresource Integrity  
@@ -809,6 +834,7 @@ Stalkerware: Stalker + software
 STAR: Security, Trust, Assurance and Risk  
 Steg: Steganography  
 STIG: Security Technical Implementation Guide  
+STP: Straight To Production  
 STS: Security Token Service  
 SWIFT: Society for Worldwide Interbank Financial Telecommunications  
 SYN: Synchronize  
@@ -846,6 +872,7 @@ TPRM: Third-Party Risk Management
 TPSA: Third Party Security Assessment  
 Trialware: Trial + software  
 TRU: Threat Response Unit  
+TSP: Telecommunications Service Provider  
 TTL: Time to live  
 TTPs: Tactics, Techniques, and Procedures  
 TTS: Text to Speech  
@@ -929,6 +956,7 @@ YAST: Yet Another Security Tool
 ## Z
 ZDI: Zero Day Initiative  
 ZK: Zero Knowledge  
+ZKP: Zero-Knowledge Proof  
 ZSK: Zone Signing Key  
 ZTA: Zero Trust Architecture  
 ZTNA: Zero Trust Network Access  
