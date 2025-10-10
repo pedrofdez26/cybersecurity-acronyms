@@ -3,6 +3,7 @@ List of acronyms (and also some abbreviations) that are somehow related to cyber
 
 ## 0-9
 2FA: Two-Factor Authentication  
+2SV: 2-Step Verification  
 3LA: 3 Letter Acronym  
 3PM: Third Party Monitoring  
 
@@ -124,7 +125,7 @@ CCPA: California Consumer Privacy Act
 CD: Continuous Delivery | Continuous Deployment  
 CDA: Communications Decency Act  
 CDN: Content Delivery Network  
-CDR: Cloud Detection and Response  
+CDR: Cloud Detection and Response | Content Disarm & Reconstruction  
 CEH: Certified Ethical Hacker  
 CERT: Computer Emergency Response Team  
 CES: Consumer Electronics Show  
@@ -187,6 +188,7 @@ CSR: Client-Side Rendering | Certificate Signing Request
 CSRB: Cyber Safety Review Board  
 CSS: Cascading Style Sheets  
 CSV: Comma-Separated Values  
+CT: Certificate Transparency  
 CTF: Capture the Flag  
 CTI: Cyber Threat Intelligence  
 CTO: Chief Technology Officer  
@@ -326,10 +328,12 @@ Freeware: Free + software
 FS: Forward Secrecy  
 FSF: Free Software Foundation  
 FT: Fine-Tuning  
+FWaaS: Firewall as a Service  
 
 ## G
 GA: Global Administrator | General Availability  
 GAN: Generative Adversarial Network  
+Garak: Generative AI Red-teaming & Assessment Kit  
 GC: Garbage Collector  
 GCC: GNU Compiler Collection  
 GCHQ: Government Communications Headquarters  
@@ -378,7 +382,7 @@ I+D+I: Investigación, Desarrollo e Innovación
 I/O: Input/Output  
 IA: Inteligencia Artificial  
 IaaS: Infrastructure as a Service  
-IAB: Initial Access Broker  
+IAB: Initial Access Broker | Internet Architecture Board  
 IaC: Infrastructure as Code  
 IAG: Inteligencia Artificial Generativa  
 IAM: Identity and Access Management  
@@ -455,6 +459,7 @@ JWT: JSON Web Token
 ## K
 K8s: Kubernetes  
 KBA: Knowledge-based authentication  
+KDC: Key Distribution Center  
 KEK: Key Encryption/Exchange Key  
 KEV: Known Exploited Vulnerabilities  
 Keylogger: Keyboard/keystroke logger  
@@ -477,6 +482,7 @@ LLM: Large Language Model
 LOLBins: Living Off the Land Binaries  
 LotL: Living off the Land  
 LOTS: Living Off Trusted Sites  
+LQL: Logging Query Language  
 LRM: Large Reasoning Model  
 LSASS: Local Security Authority Subsystem Service  
 LSN: Large-scale NAT  
@@ -520,6 +526,8 @@ MPLS: Multiprotocol Label Switching
 MQTT: Message Queuing Telemetry Transport  
 MRO: Memory Read Out  
 MSA: Microsoft account  
+MSAL: Microsoft Authentication Library  
+MSI: Microsoft Software Installer  
 MSL: Memory Safe Language  
 MSP: Managed Service Provider  
 MSRC: Microsoft Security Response Center  
@@ -559,7 +567,8 @@ NL: New Line
 NLP: Natural Language Processing  
 Nmap: Network mapper  
 NOC: Network Operations Center  
-NPM: Node Package Manager  
+Nonce: Number used once  
+NPM: Node Package Manager (not officially)  
 NPU: Neural Processing Unit  
 NRD: Newly Registered Domain  
 NRT: Near-real-time  
@@ -699,6 +708,7 @@ RAR: Roshal Archive
 RASP: Runtime Application Self-Protection  
 RAT: Remote Administration Tool | Remote Access Trojan | Recovery Asset Team  
 RBAC: Role-Based Access Control  
+RBI: Remote Browser Isolation  
 RCE: Remote Code Execution  
 RCM: Real Casa de la Moneda  
 RCS: Rich Communication Services  
@@ -836,6 +846,7 @@ Steg: Steganography
 STIG: Security Technical Implementation Guide  
 STP: Straight To Production  
 STS: Security Token Service  
+SVM: Support Vector Machine  
 SWIFT: Society for Worldwide Interbank Financial Telecommunications  
 SYN: Synchronize  
 Sysadmin: System administrator  
@@ -872,6 +883,7 @@ TPRM: Third-Party Risk Management
 TPSA: Third Party Security Assessment  
 Trialware: Trial + software  
 TRU: Threat Response Unit  
+TSMC: Taiwan Semiconductor Manufacturing Company  
 TSP: Telecommunications Service Provider  
 TTL: Time to live  
 TTPs: Tactics, Techniques, and Procedures  
@@ -906,9 +918,10 @@ UTF: Unicode Transformation Format
 UX: User Experience  
 
 ## V
+VAR: Value-Added Reseller  
 VB: Visual Basic  
 VBA: Visual Basic for Applications  
-VC: Venture Capitalist  
+VC: Venture Capitalist | Verifiable Credential  
 VCaaS: Voice Cloning as a Service  
 vCISO: Virtual CISO  
 VDI: Virtual Desktop Infrastructure  
@@ -929,8 +942,10 @@ W3C: World Wide Web Consortium
 WaaS: Wallet as a Service  
 WAF: Web Application Firewall | Well-Architected Framework  
 WAN: Wide Area Network  
+Wasm: WebAssembly  
 WEP: Wired Equivalent Privacy  
 WFH: Work From Home  
+WHfB: Windows Hello for Business  
 WORM: Write Once, Read Many  
 WPA: Wi-Fi Protected Access  
 WPS: Wi-Fi Positioning System | Wi-Fi Protected Setup  
