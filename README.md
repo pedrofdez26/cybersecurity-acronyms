@@ -49,6 +49,7 @@ Arb: Arbitrary
 ARIN: American Registry for Internet Numbers  
 ARM: Advanced RISC Machine | Azure Resource Manager  
 ARP: Address Resolution Protocol  
+AS: Authentication Server  
 ASCII: American Standard Code for Information Interchange  
 ASG: Application Security Group  
 ASI: Artificial Super Intelligence  
@@ -64,6 +65,7 @@ ATLAS: Adversarial Threat Landscape for Artificial-Intelligence Systems
 ATM: Automated Teller Machine  
 ATO: Account Takeover  
 ATT&CK: Adversarial Tactics, Techniques, and Common Knowledge  
+AUC: Area Under the Curve  
 Authn: Authentication  
 Authz: Authorization  
 AV: Antivirus, Autonomous Vehicle  
@@ -156,11 +158,13 @@ CNAME: Canonical Name
 CNAPP: Cloud-Native Application Protection Platform  
 CNCF: Cloud Native Computing Foundation  
 CNI: Centro Nacional de Inteligencia  
+CNN: Convolutional Neural Network  
 COBOL: Common Business Oriented Language  
 COMB: Compilation of Many Breaches  
 Comms: Communications  
 COMSEC: Communications Security  
 Config: Configuration  
+ConfigMgr: Microsoft Configuration Manager  
 COPPA: Children's Online Privacy Protection Act  
 CORS: Cross-Origin Resource Sharing  
 CoT: Chain of Thought  
@@ -209,6 +213,7 @@ DAC: Digital-to-analog converter
 DAG: Directed Acyclic Graph  
 DAN: Do Anything Now  
 DAO: Decentralized Autonomous Organization  
+DAP: Directory Access Protocol  
 DARPA: Defense Advanced Research Projects Agency  
 DAST: Dynamic Application Security Testing  
 DB: Database  
@@ -245,6 +250,7 @@ DMP: Data memory-dependent prefetcher
 DMS: Document Management System  
 DMZ: Demilitarized zone  
 DNAT: Destination NAT  
+DNN: Deep Neural Network  
 DnR: Detection and Response  
 DNS: Domain Name System  
 DNT: Do Not Track  
@@ -320,9 +326,11 @@ FGAC: Fine-Grained Access Control
 FIDO: Fast Identity Online  
 FIFO: First In, First Out  
 Finfluencer: Financial influencer  
+FN: False Negative  
 FNMT: Fábrica Nacional de Moneda y Timbre  
 FOIA: Freedom of Information Act  
 FOSS: Free and Open Source Software  
+FP: False Positive  
 FQDN: Fully Qualified Domain Name  
 Freeware: Free + software  
 FS: Forward Secrecy  
@@ -332,6 +340,7 @@ FWaaS: Firewall as a Service
 
 ## G
 GA: Global Administrator | General Availability  
+GAF: Generative Application Firewall  
 GAN: Generative Adversarial Network  
 Garak: Generative AI Red-teaming & Assessment Kit  
 GC: Garbage Collector  
@@ -408,6 +417,7 @@ IEC: International Electrotechnical Commission
 IEEE: Institute of Electrical and Electronics Engineers  
 IETF: Internet Engineering Task Force  
 IGA: Identity Governance and Administration  
+IHL: Internet Header Length  
 IIoT: Industrial Internet of Things  
 IIS: Internet Information Services  
 IKE: Internet Key Exchange  
@@ -525,6 +535,7 @@ MPIC: Multi-Perspective Issuance Corroboration
 MPLS: Multiprotocol Label Switching  
 MQTT: Message Queuing Telemetry Transport  
 MRO: Memory Read Out  
+MRU: Most Recently Used  
 MSA: Microsoft account  
 MSAL: Microsoft Authentication Library  
 MSI: Microsoft Software Installer  
@@ -536,6 +547,7 @@ MTA: Mail/Message Transfer Agent
 MTD: Mobile Threat Defense  
 mTLS: Mutual Transport Layer Security  
 MTTR: Mean Time To Remediation  
+MTU: Maximum Transmission Unit  
 Multisig: Multiple signatures  
 Mutex: Mutual exclusion  
 MVNO: Mobile Virtual Network Operator  
@@ -565,6 +577,7 @@ NIC: Network Interface Controller | Network Interface Card
 NIST: National Institute of Standards and Technology  
 NL: New Line  
 NLP: Natural Language Processing  
+NLU: Natural Language Understanding  
 Nmap: Network mapper  
 NOC: Network Operations Center  
 Nonce: Number used once  
@@ -574,8 +587,10 @@ NRD: Newly Registered Domain
 NRT: Near-real-time  
 NSA: National Security Agency | Network Security Appliance | Never Say Anything  
 NSG: Network Security Group  
+NSS: Network Security Services  
 NT: New Technology  
 NTFS: New Technology File System  
+NTLM: NT LAN Manager  
 NTP: Network Time Protocol  
 NVA: Network Virtual Appliance  
 NVD: National Vulnerability Database  
@@ -609,6 +624,7 @@ OU: Organizational Unit
 OV: Organization Validated  
 OVA: Open Virtualization Application/Appliance  
 OVF: Open Virtualization Format  
+OvR: One-vs-Rest  
 OWASP: Open Web Application Security Project  
 
 ## P
@@ -629,7 +645,7 @@ PCI: Payment Card Industry
 PDF: Portable Document Format  
 PDP: Policy Decision Point  
 PDR: Public Disclosure Request  
-PE: Portable Executable  
+PE: Portable Executable | Private Equity  
 Pentest: Penetration Test  
 PEP: Policy Enforcement Point  
 PETs: Privacy-enhancing technologies  
@@ -661,7 +677,7 @@ PoC: Proof of Concept
 PoLA: Principle of Least Authority  
 PoLP: Principle of Least Privilege  
 PoMP: Principle of Minimal Privilege  
-POP: Post Office Protocol  
+POP | PoP: Post Office Protocol | Proof-of-Possession | Point of Presence  
 PoS: Proof of Stake  
 POSIX: Portable Operating System Interface  
 POTS: Plain Old Telephone Service  
@@ -684,6 +700,7 @@ PSK: Pre-Shared Key
 PSOA: Private Sector Offensive Actor  
 PTA: Pass Through Authentication  
 PTE: Page Table Entry  
+PtH: Pass-the-Hash  
 PUC: Personal Unblocking Code  
 PUK: Personal Unblocking Key  
 PUP: Potentially Unwanted Program  
@@ -717,11 +734,14 @@ RDNS: Reverse DNS
 RDP: Remote Desktop Protocol  
 RE: Reverse Engineering  
 Recon: Reconnaissance  
+Redis: Remote Dictionary Service  
 Regex: Regular expression  
+ReLU: Rectified, Linear Unit  
 RENIC: Red de Excelencia Nacional de Investigación en Ciberseguridad  
 Repo: Repository  
 Repo-jacking: Dependency repository hijacking  
 REST: Representational State Transfer  
+RFB: Remote FrameBuffer  
 RFC: Request for Comments  
 RFI: Remote File Inclusion  
 RFID: Radio Frequency Identification  
@@ -748,6 +768,7 @@ RTB: Real Time Bidding
 RTF: Rich Text Format | Role, Task, Format  
 RTO: Recovery Time Objective  
 RTOS: Real-Time Operating System  
+RTP: Real-time Transport Protocol  
 RTU: Remote Terminal Unit  
 RVA: Risk and Vulnerability Assessment  
 RWA: Real World Asset  
@@ -770,10 +791,12 @@ SBOM: Software Bill of Materials
 SCA: Software Composition Analysis  
 SCADA: Supervisory Control and Data Acquisition  
 Scareware: Scare + software  
+SCCM: System Center Configuration Manager  
 SCIM: System for Cross-Domain Identity Management  
 SCM: Source Code Management  
 SD: Secure Digital  
 SD-JWT: Selective Disclosure for JWTs  
+SD-WAN: Software-Defined Wide Area Network  
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
 SDN: Software-defined networking  
@@ -826,6 +849,7 @@ SQL: Structured Query Language
 SQLi: SQL injection  
 SRI: Subresource Integrity  
 SRM: Software Risk Manager  
+SRTP: Secure Real-time Transport Protocol  
 SSD: Solid-State Drive  
 SSDF: Secure Software Development Framework  
 SSE: Security Service Edge | Server-Sent Events  
@@ -863,12 +887,15 @@ TEE: Trusted Execution Environment
 Telco: Telephone company  
 Telecom: Telecommunications  
 TFTP: Trivial File Transfer Protocol  
+TGS: Ticket Granting Server  
+TGT: Ticket Granting Ticket  
 THM: TryHackMe  
 Thrunting: Threat hunting  
 TI: Threat Intelligence  
 TLD: Top-Level Domain  
 TLS: Transport Layer Security  
 TM: Threat Modeling  
+TN: True Negative  
 TOAD: Telephone Oriented Attack Delivery  
 TOCTOU: Time-Of-Check Time-Of-Use  
 TOFU: Trust On First Use  
@@ -878,6 +905,7 @@ TOR: The Onion Router
 ToS: Terms of Service  
 TOTP: Time-based One-Time Password  
 ToU: Terms of Use  
+TP: True Positive  
 TPM: Trusted Platform Module | Third Party Monitoring  
 TPRM: Third-Party Risk Management  
 TPSA: Third Party Security Assessment  
@@ -905,6 +933,7 @@ UEFI: Unified Extensible Firmware Interface
 UI: User Interface  
 UL: Unsupervised Learning  
 UML: Unified Modeling Language  
+UPN: User Principal Name  
 UPnP: Universal Plug and Play  
 UPS: Uninterruptible power supply/source  
 URI: Universal Resource Identifier  
@@ -946,6 +975,7 @@ Wasm: WebAssembly
 WEP: Wired Equivalent Privacy  
 WFH: Work From Home  
 WHfB: Windows Hello for Business  
+WMI: Windows Management Instrumentation  
 WORM: Write Once, Read Many  
 WPA: Wi-Fi Protected Access  
 WPS: Wi-Fi Positioning System | Wi-Fi Protected Setup  
