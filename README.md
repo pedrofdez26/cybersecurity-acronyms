@@ -8,6 +8,7 @@ List of acronyms (and also some abbreviations) that are somehow related to cyber
 3PM: Third Party Monitoring  
 
 ## A
+A/C | Air Con: Air Conditioning  
 A2A: Agent2Agent  
 ABAC: Attribute-Based Access Control  
 Abandonware: Abandoned + software  
@@ -37,6 +38,7 @@ AJAX: Asynchronous JavaScript and XML
 ALPR: Automated License Plate Reader  
 AML: Adversarial Machine Learning | Anti-Money Laundering  
 ANSI: American National Standards Institute  
+APD: Autoridad de Protección de Datos  
 APFS: Apple File System  
 API: Application Programming Interface  
 APK: Android Package Kit | Android Package | Android Application Package  
@@ -49,9 +51,11 @@ Arb: Arbitrary
 ARIN: American Registry for Internet Numbers  
 ARM: Advanced RISC Machine | Azure Resource Manager  
 ARP: Address Resolution Protocol  
+ARTA: AWS Red Team Apprentice  
+ARTE: AWS Red Team Expert  
 AS: Authentication Server  
 ASCII: American Standard Code for Information Interchange  
-ASG: Application Security Group  
+ASG: Application Security Group | Azure Service Group  
 ASI: Artificial Super Intelligence  
 ASIC: Application-Specific Integrated Circuit  
 ASL: AI Safety Level  
@@ -71,6 +75,8 @@ Authz: Authorization
 AV: Antivirus, Autonomous Vehicle  
 AWS: Amazon Web Services  
 AZ: Availability Zone  
+AzRTA: Azure Red Team Apprentice  
+AzRTE: Azure Red Team Expert  
 
 ## B
 B2B: Business-to-business  
@@ -149,6 +155,7 @@ CISO: Chief Information Security Officer
 CLI: Command Line Interface  
 Clickjacking: Click + hijacking  
 Clickops: Click + operations  
+CLR: Common Language Runtime  
 CMDB: Configuration Management Database  
 CMK: Customer-managed key  
 CMMI: Capability Maturity Model Integration  
@@ -174,6 +181,7 @@ CPE: Customer-premises equipment | Common Platform Enumeration
 CPG: Cybersecurity Performance Goal  
 CPU: Central Processing Unit  
 CR: Carriage Return  
+CRA: Cyber Resilience Act  
 CRC: Cyclic Redundancy Check  
 Creds: Credentials  
 CRL: Certificate Revocation List  
@@ -261,6 +269,7 @@ DOM: Document Object Model
 DoS: Denial of Service  
 DOSA: Detection Oriented Security Architecture  
 DoT: DNS over TLS  
+DPD: Delegado de Protección de Datos  
 DPO: Data Protection Officer  
 DPoP: Demonstrating Proof of Possession  
 DR: Disaster Recovery  
@@ -360,6 +369,8 @@ GPT: Generative Pre-trained Transformer
 GPU: Graphics Processing Unit  
 GRC: Governance, Risk, and Compliance  
 GRE: Generic Routing Encapsulation  
+GRTA: GCP Red Team Apprentice  
+GRTE: GCP Red Team Expert  
 GUI: Graphical User Interface  
 GUID: Globally Unique Identifier  
 
@@ -419,6 +430,7 @@ IETF: Internet Engineering Task Force
 IGA: Identity Governance and Administration  
 IHL: Internet Header Length  
 IIoT: Industrial Internet of Things  
+IIP: Información de Identificación Personal  
 IIS: Internet Information Services  
 IKE: Internet Key Exchange  
 ILPIP: Instance-Level Public IP  
@@ -439,6 +451,7 @@ IoT: Internet of Things
 IP: Internet Protocol | Intellectual Property | Instruction Pointer  
 IPA: iOS App Store Package  
 IPC: Inter-Process Communication  
+IPI: Información Personal Identificable | Información Personal de Identificación  
 IPS: Intrusion Prevention System  
 IPsec: Internet Protocol Security  
 IR: Incident Response  
@@ -602,6 +615,7 @@ OCPP: Open Charge Point Protocol
 OCR: Optical Character Recognition  
 OCSP: Online Certificate Status Protocol  
 OFAC: Office of Foreign Assets Control  
+OffSec: Offensive Security  
 OIDC: OpenID Connect  
 On-prem: On-premises  
 OOP: Object-oriented programming  
@@ -641,7 +655,7 @@ PAYG: Pay As You Go
 PBKDF: Password-Based Key Derivation Function  
 PC: Personal Computer | Program Counter  
 PCAP: Packet Capture  
-PCI: Payment Card Industry  
+PCI DSS: Payment Card Industry Data Security Standard  
 PDF: Portable Document Format  
 PDP: Policy Decision Point  
 PDR: Public Disclosure Request  
@@ -659,7 +673,7 @@ PI: Private Investigator | Prompt Injection
 PIC: Position Independent Code  
 PID: Process Identifier  
 PIE: Position Independent Executable | Pre-Internet Encryption  
-PII: Personal Identifiable Information  
+PII: Personally/Personal Identifiable Information  
 PIM: Privileged Identity Management  
 PIN: Personal Identification Number  
 PIP: Pip Installs Packages  
@@ -821,6 +835,7 @@ SKU: Stock Keeping Unit
 SL: Supervised Learning  
 SLA: Service Level Agreement  
 Slack: Searchable Log of All Communication and Knowledge  
+SLH: Scattered LAPSUS$ Hunters  
 SLI: Service Level Indicator  
 SLM: Small Language Model  
 SLO: Service Level Objective  
@@ -866,6 +881,7 @@ SSRF: Server-Side Request Forgery
 SSTI: Server Side Template Injection  
 Stalkerware: Stalker + software  
 STAR: Security, Trust, Assurance and Risk  
+Stats: Statistics  
 Steg: Steganography  
 STIG: Security Technical Implementation Guide  
 STP: Straight To Production  
@@ -924,10 +940,12 @@ UA: User Agent
 UAC:  User Account Control  
 UAT: User Acceptance Testing  
 UBA: User Behavior Analytics  
+UBI: Universal Basic Income  
 uBO: uBlock Origin  
 UCE: Unsolicited Commercial Email  
 UDP: User Datagram Protocol  
 UDR: User-Defined Route/Routing  
+UE: Unión Europea  
 UEBA: User and Entity Behavior Analytics  
 UEFI: Unified Extensible Firmware Interface  
 UI: User Interface  
@@ -1003,5 +1021,5 @@ ZDI: Zero Day Initiative
 ZK: Zero Knowledge  
 ZKP: Zero-Knowledge Proof  
 ZSK: Zone Signing Key  
-ZTA: Zero Trust Architecture  
+ZTA: Zero Trust Architecture/Access  
 ZTNA: Zero Trust Network Access  
