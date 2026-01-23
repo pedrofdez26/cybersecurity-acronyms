@@ -160,6 +160,7 @@ CMDB: Configuration Management Database
 CMK: Customer-managed key  
 CMMI: Capability Maturity Model Integration  
 CMS: Content Management System  
+CN: Common Name  
 CNA: CVE Numbering Authority  
 CNAME: Canonical Name  
 CNAPP: Cloud-Native Application Protection Platform  
@@ -230,7 +231,7 @@ DBaaS: Database as a Service
 DBIR: Data Breach Investigations Report  
 DBMS: Database Management System  
 DBSC: Device Bound Session Credentials  
-DC: Domain Controller  
+DC: Domain Controller | Domain Component  
 DCV: Domain Control Validation  
 DDoS: Distributed Denial of Service  
 DeFi: Decentralized Finance  
@@ -257,6 +258,7 @@ DMARC: Domain-based Message Authentication, Reporting, and Conformance
 DMP: Data memory-dependent prefetcher  
 DMS: Document Management System  
 DMZ: Demilitarized zone  
+DN: Distinguished Name  
 DNAT: Destination NAT  
 DNN: Deep Neural Network  
 DnR: Detection and Response  
@@ -371,6 +373,7 @@ GRC: Governance, Risk, and Compliance
 GRE: Generic Routing Encapsulation  
 GRTA: GCP Red Team Apprentice  
 GRTE: GCP Red Team Expert  
+GTIG: Google Threat Intelligence Group  
 GUI: Graphical User Interface  
 GUID: Globally Unique Identifier  
 
@@ -407,6 +410,7 @@ IaC: Infrastructure as Code
 IAG: Inteligencia Artificial Generativa  
 IAM: Identity and Access Management  
 IANA: Internet Assigned Numbers Authority  
+IAP: Identity-Aware Proxy  
 IAPP: International Association of Privacy Professionals  
 IAST: Interactive Application Security Testing  
 IBN: Internet Background Noise  
@@ -678,6 +682,7 @@ PIM: Privileged Identity Management
 PIN: Personal Identification Number  
 PIP: Pip Installs Packages  
 PITM: Person in the Middle  
+PITR: Point-in-time recovery  
 PKC: Public Key Cryptography  
 PKCE: Proof-Key for Code Exchange  
 PKI: Public key infrastructure  
@@ -705,6 +710,7 @@ PQC: Post-quantum cryptography
 PR: Pull Request  
 Prep: Preparation  
 PrivEsc: Privilege Escalation  
+Privs: Privileges  
 PRNG: Pseudorandom Number Generator  
 Prod: Production  
 ProdSec: Product Security  
@@ -744,6 +750,7 @@ RCE: Remote Code Execution
 RCM: Real Casa de la Moneda  
 RCS: Rich Communication Services  
 RDBMS: Relational Database Management System  
+RDN: Relative Distinguished Name  
 RDNS: Reverse DNS  
 RDP: Remote Desktop Protocol  
 RE: Reverse Engineering  
@@ -851,7 +858,7 @@ SNMP: Simple Network Management Protocol
 SOA: Statement of Applicability | Service-Oriented Architecture  
 SOAP: Simple Object Access Protocol  
 SOAR: Security orchestration, automation and response  
-SOC: Security Operations Center | Service Organization Control  
+SOC | SoC: Security Operations Center | Service Organization Controls | System and Organization Controls | System on Chip  
 SOHO: Small Office/Home Office  
 SOP: Same-Origin Policy  
 SOUP: Software of Unknown/Uncertain Pedigree/Provenance  
@@ -927,6 +934,7 @@ TPRM: Third-Party Risk Management
 TPSA: Third Party Security Assessment  
 Trialware: Trial + software  
 TRU: Threat Response Unit  
+TSA: Timestamp Authority  
 TSMC: Taiwan Semiconductor Manufacturing Company  
 TSP: Telecommunications Service Provider  
 TTL: Time to live  
