@@ -26,13 +26,14 @@ ADP: Advanced Data Protection | Authorized Data Publisher
 Adware: Advertising + software  
 AE: Authenticated Encryption  
 AES: Advanced Encryption Standard  
+AFK: Away From Keyboard  
 AFP: Australian Federal Police  
 AFU: After First Unlock  
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
+AI-SPM: Artificial Intelligence Security Posture Management  
 AIA: Authority Information Access  
 AIO: AI Overview  
-AISPM: Artificial Intelligence Security Posture Management  
 AITM: Adversary in the Middle  
 AJAX: Asynchronous JavaScript and XML  
 ALPR: Automated License Plate Reader  
@@ -62,7 +63,7 @@ ASL: AI Safety Level
 ASLR: Address Space Layout Randomization  
 ASM: Attack Surface Management  
 ASPM: Application Security Posture Management  
-ASR: Architecture Security Review  
+ASR: Architecture Security Review | Attack Surface Reduction  
 AST: Abstract Syntax Tree  
 ASVS: Application Security Verification Standard  
 ATLAS: Adversarial Threat Landscape for Artificial-Intelligence Systems  
@@ -93,6 +94,7 @@ BFF: Backend-for-frontend
 BFLA: Broken Function Level Authorization  
 BFU: Before First Unlock  
 BGP: Border Gateway Protocol  
+BIA: Business Impact Analysis  
 BIMI: Brand Indicators for Message Identification  
 BIOS: Basic Input/Output System  
 Bit: Binary digit  
@@ -244,6 +246,7 @@ Dev: Developer | Development
 DevOps: Development + Operations  
 DevSecOps: Development + Security + Operations  
 DFIR: Digital Forensics and Incident Response  
+DH: Diffie-Hellman  
 DHCP: Dynamic Host Configuration Protocol  
 DHS: Department of Homeland Security  
 DID | DiD: Decentralized Identifier | Defense in Depth  
@@ -254,6 +257,7 @@ DL: Distribution List | Deep Learning
 DLL: Dynamic-Link Library  
 DLP: Data Loss Prevention  
 DLS: Dedicated/Data Leak Site  
+DM: Direct Message  
 DMARC: Domain-based Message Authentication, Reporting, and Conformance  
 DMP: Data memory-dependent prefetcher  
 DMS: Document Management System  
@@ -268,6 +272,7 @@ DOB: Date of Birth
 DoD: Department of Defense  
 DoH: DNS over HTTPS  
 DOM: Document Object Model  
+DORA: Digital Operational Resilience Act  
 DoS: Denial of Service  
 DOSA: Detection Oriented Security Architecture  
 DoT: DNS over TLS  
@@ -301,6 +306,7 @@ EDR: Endpoint Detection and Response | Emergency Data Request
 EFF: Electronic Frontier Foundation  
 EHR: Electronic Health Record  
 EICAR: European Institute for Computer Antivirus Research  
+EJS: Embedded JavaScript  
 ELK: Elasticsearch, Logstash, and Kibana  
 ELZ: Enterprise Landing Zone  
 EM+S: Enterprise Mobility + Security  
@@ -361,8 +367,10 @@ GCP: Google Cloud Platform
 GDPR: General Data Protection Regulation  
 Gen: Generation  
 GenAI: Generative AI  
+GEO: Generative Engine Optimization  
 GIGO: Garbage in, garbage out  
 GKE: Google Kubernetes Engine  
+gMSA: Group Managed Service Account  
 GNU: GNU's Not Unix  
 GPC: Global Privacy Control  
 GPL: General Public License  
@@ -463,6 +471,7 @@ IRL: In Real Life
 IRP: Incident Response Platform  
 IRS: Internal Revenue Service  
 ISAC: Information Sharing and Analysis Center  
+ISC: Internet Systems Consortium  
 ISMS: Information Security Management System  
 ISO: International Organization for Standardization  
 ISP: Internet Service Provider  
@@ -476,6 +485,7 @@ IWA: Integrated Windows Authentication
 ## J
 JAR: Java Archive  
 JEA: Just Enough Access  
+JIC: Just-in-case  
 JIT: Just-in-time  
 JNIC: Jornadas Nacionales de Investigación en Ciberseguridad  
 JS: JavaScript  
@@ -553,7 +563,7 @@ MPLS: Multiprotocol Label Switching
 MQTT: Message Queuing Telemetry Transport  
 MRO: Memory Read Out  
 MRU: Most Recently Used  
-MSA: Microsoft account  
+MSA: Microsoft account | Managed Service Account  
 MSAL: Microsoft Authentication Library  
 MSI: Microsoft Software Installer  
 MSL: Memory Safe Language  
@@ -563,6 +573,7 @@ MSSP: Managed Security Service Provider
 MTA: Mail/Message Transfer Agent  
 MTD: Mobile Threat Defense  
 mTLS: Mutual Transport Layer Security  
+MTPD: Maximum Tolerable Period of Disruption  
 MTTR: Mean Time To Remediation  
 MTU: Maximum Transmission Unit  
 Multisig: Multiple signatures  
@@ -590,6 +601,7 @@ NFC: Near Field Communication
 NFS: Network File System  
 NFT: Non-fungible token  
 NGFW: Next Generation Firewall  
+NHI: Non-Human Identity  
 NIC: Network Interface Controller | Network Interface Card  
 NIST: National Institute of Standards and Technology  
 NL: New Line  
@@ -618,6 +630,7 @@ OAST: Out-of-band Application Security Testing
 OCPP: Open Charge Point Protocol  
 OCR: Optical Character Recognition  
 OCSP: Online Certificate Status Protocol  
+OEM: Original Equipment Manufacturer  
 OFAC: Office of Foreign Assets Control  
 OffSec: Offensive Security  
 OIDC: OpenID Connect  
@@ -660,10 +673,12 @@ PBKDF: Password-Based Key Derivation Function
 PC: Personal Computer | Program Counter  
 PCAP: Packet Capture  
 PCI DSS: Payment Card Industry Data Security Standard  
+PCN: Plan de Continuidad de Negocio  
 PDF: Portable Document Format  
 PDP: Policy Decision Point  
 PDR: Public Disclosure Request  
 PE: Portable Executable | Private Equity  
+PEBKAC: Problem Exists Between Keyboard And Chair  
 Pentest: Penetration Test  
 PEP: Policy Enforcement Point  
 PETs: Privacy-enhancing technologies  
@@ -708,6 +723,7 @@ PPP: Plaid Parliament of Pwning
 PQ: Post-quantum  
 PQC: Post-quantum cryptography  
 PR: Pull Request  
+PRAC: Per Row Activation Counting  
 Prep: Preparation  
 PrivEsc: Privilege Escalation  
 Privs: Privileges  
@@ -730,6 +746,7 @@ PyPI: Python Package Index
 ## Q
 QA: Quality Assurance  
 QC: Quantum Computing  
+QEMU: Quick Emulator  
 Qishing: QR + Phishing  
 QR: Quick Response  
 Qubit: Quantum bit  
@@ -785,11 +802,12 @@ RSA: Rivest-Shamir-Adleman
 RSI: Recursive Self-Improvement  
 RSR: Rapid Security Response  
 RST: Reset  
-RTB: Real Time Bidding  
+RTB: Real-time bidding  
 RTF: Rich Text Format | Role, Task, Format  
 RTO: Recovery Time Objective  
 RTOS: Real-Time Operating System  
 RTP: Real-time Transport Protocol  
+RTR: Real Time Response  
 RTU: Remote Terminal Unit  
 RVA: Risk and Vulnerability Assessment  
 RWA: Real World Asset  
@@ -818,6 +836,7 @@ SCM: Source Code Management
 SD: Secure Digital  
 SD-JWT: Selective Disclosure for JWTs  
 SD-WAN: Software-Defined Wide Area Network  
+SDD: Spec-Driven Development  
 SDK: Software Development Kit  
 SDLC: Software Development Life Cycle  
 SDN: Software-defined networking  
@@ -851,6 +870,7 @@ SMB: Server Message Block
 SMBs: Small and Medium-sized Businesses  
 Smishing: SMS + Phishing  
 SMS: Short Message/Messaging Service  
+sMSA: Standalone Managed Service Account  
 SMTP: Simple Mail Transfer Protocol  
 SNAT: Source NAT  
 SNI: Server Name Indication  
@@ -1023,6 +1043,7 @@ Y2K: Year 2000
 YAML: Yet Another Markup Language | YAML Ain't Markup Language  
 YARA: Yet Another Ridiculous Acronym  
 YAST: Yet Another Security Tool  
+YOLO: You Only Live Once  
 
 ## Z
 ZDI: Zero Day Initiative  
