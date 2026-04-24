@@ -255,7 +255,7 @@ Distro: Distribution
 DKIM: DomainKeys Identified Mail  
 DL: Distribution List | Deep Learning  
 DLL: Dynamic-Link Library  
-DLP: Data Loss Prevention  
+DLP: Data Loss Prevention | Discrete Logarithm Problem  
 DLS: Dedicated/Data Leak Site  
 DM: Direct Message  
 DMARC: Domain-based Message Authentication, Reporting, and Conformance  
@@ -296,6 +296,8 @@ eBPF: Extended Berkeley Packet Filter
 EC2: Elastic Compute Cloud  
 ECB: Electronic Code Book  
 ECC: Elliptic Curve Cryptography  
+ECDH: Elliptic-Curve Diffie-Hellman  
+ECDLP: Elliptic Curve Discrete Logarithm Problem  
 ECDSA: Elliptic Curve Digital Signature Algorithm  
 ECH: Encrypted Client Hello  
 eCrime: Electronic Crime  
@@ -405,7 +407,7 @@ HTB: Hack The Box
 HTML: HyperText Markup Language  
 HTTP: Hypertext Transfer Protocol  
 HTTPS: Hypertext Transfer Protocol Secure  
-HUMINT: Human Intelligence  
+HUMINT: Human intelligence  
 
 ## I
 I+D: Investigación y Desarrollo  
@@ -439,6 +441,7 @@ IE: Internet Explorer
 IEC: International Electrotechnical Commission  
 IEEE: Institute of Electrical and Electronics Engineers  
 IETF: Internet Engineering Task Force  
+IFP: Integer Factorization Problem  
 IGA: Identity Governance and Administration  
 IHL: Internet Header Length  
 IIoT: Industrial Internet of Things  
@@ -473,6 +476,7 @@ IRS: Internal Revenue Service
 ISAC: Information Sharing and Analysis Center  
 ISC: Internet Systems Consortium  
 ISMS: Information Security Management System  
+ISN: Initial Sequence Number  
 ISO: International Organization for Standardization  
 ISP: Internet Service Provider  
 ISRG: Internet Security Research Group  
@@ -649,6 +653,7 @@ OSI: Open Systems Interconnection
 OSINT: Open Source Intelligence  
 OSS: Open Source Software  
 OTA: Over-The-Air  
+OTFE: On-the-fly encryption  
 OTP: One-Time Password  
 OTR: Off-the-Record  
 OU: Organizational Unit  
@@ -819,6 +824,7 @@ S2S: Site-To-Site
 S3: Simple Storage Service  
 SA: Security Association  
 SaaS: Software as a Service  
+SACK: Selective Acknowledgement  
 SAI: Sistema de Alimentación Ininterrumpida  
 SAML: Security Assertion Markup Language  
 SAS: Shared Access Signature  
@@ -831,6 +837,8 @@ SCA: Software Composition Analysis
 SCADA: Supervisory Control and Data Acquisition  
 Scareware: Scare + software  
 SCCM: System Center Configuration Manager  
+SCI: Sensitive Compartmented Information  
+SCIF: Sensitive Compartmented Information Facility  
 SCIM: System for Cross-Domain Identity Management  
 SCM: Source Code Management  
 SD: Secure Digital  
