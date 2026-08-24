@@ -21,10 +21,13 @@ AD: Active Directory
 ADB: Android Debug Bridge  
 ADC: Analog-to-digital converter  
 ADDS: Active Directory Domain Services  
+ADK: Agent Development Kit  
 Admin: Administrator  
 ADP: Advanced Data Protection | Authorized Data Publisher  
+ADS: Automated Driving System  
 Adware: Advertising + software  
 AE: Authenticated Encryption  
+AEO: AI Engine Optimization  
 AES: Advanced Encryption Standard  
 AFK: Away From Keyboard  
 AFP: Australian Federal Police  
@@ -32,11 +35,13 @@ AFU: After First Unlock
 AGI: Artificial General Intelligence  
 AI: Artificial Intelligence  
 AI-SPM: Artificial Intelligence Security Posture Management  
+AI;DR: Artificial Intelligence; Didn't Read  
 AIA: Authority Information Access  
 AIO: AI Overview  
 AITM: Adversary in the Middle  
 AJAX: Asynchronous JavaScript and XML  
 ALPR: Automated License Plate Reader  
+AMI: Amazon Machine Image  
 AML: Adversarial Machine Learning | Anti-Money Laundering  
 ANSI: American National Standards Institute  
 APD: Autoridad de Protección de Datos  
@@ -51,12 +56,13 @@ AR: Augmented Reality | Automated Reasoning
 Arb: Arbitrary  
 ARIN: American Registry for Internet Numbers  
 ARM: Advanced RISC Machine | Azure Resource Manager  
+ARN: Amazon Resource Name  
 ARP: Address Resolution Protocol  
 ARTA: AWS Red Team Apprentice  
 ARTE: AWS Red Team Expert  
 AS: Authentication Server  
 ASCII: American Standard Code for Information Interchange  
-ASG: Application Security Group | Azure Service Group  
+ASG: Application Security Group | Azure Service Group | Auto Scaling Group  
 ASI: Artificial Super Intelligence  
 ASIC: Application-Specific Integrated Circuit  
 ASL: AI Safety Level  
@@ -84,6 +90,7 @@ B2B: Business-to-business
 B2C: Business-to-consumer  
 BAS: Breach and Attack Simulation  
 BASL: Bridge All Site Links  
+BAU: Business as usual  
 BBM: BlackBerry Messenger  
 BCDR: Business Continuity and Disaster Recovery  
 BCI: Brain-computer interface  
@@ -196,6 +203,7 @@ CSA: Cloud Security Alliance
 CSE: Client-side encryption  
 CSI: Cybersecurity Information Sheet  
 CSIRT: Computer Security Incident Response Team  
+CSIS: Canadian Security Intelligence Service  
 CSO: Chief Security Officer  
 CSP: Content Security Policy | Cloud Service Provider  
 CSPM: Cloud Security Posture Management  
@@ -235,6 +243,7 @@ DBMS: Database Management System
 DBSC: Device Bound Session Credentials  
 DC: Domain Controller | Domain Component  
 DCV: Domain Control Validation  
+DDD: Domain-Driven Design  
 DDoS: Distributed Denial of Service  
 DeFi: Decentralized Finance  
 Demo: Demonstration  
@@ -281,7 +290,7 @@ DPO: Data Protection Officer
 DPoP: Demonstrating Proof of Possession  
 DR: Disaster Recovery  
 DRM: Digital Rights Management  
-DSA: Digital Signature Algorithm  
+DSA: Digital Signature Algorithm/Authentication  
 DSL: Domain-Specific Language  
 DSP: Demand Side Platform  
 DSPM: Data Security Posture Management  
@@ -301,6 +310,7 @@ ECDLP: Elliptic Curve Discrete Logarithm Problem
 ECDSA: Elliptic Curve Digital Signature Algorithm  
 ECH: Encrypted Client Hello  
 eCrime: Electronic Crime  
+ECS: Elastic Container Service  
 ECU: Electronic Control Unit  
 EDA: Event-driven architecture  
 EDNS: Encrypted DNS  
@@ -309,6 +319,8 @@ EFF: Electronic Frontier Foundation
 EHR: Electronic Health Record  
 EICAR: European Institute for Computer Antivirus Research  
 EJS: Embedded JavaScript  
+EKS: Elastic Kubernetes Service  
+ELF: Executable and Linkable Format  
 ELK: Elasticsearch, Logstash, and Kibana  
 ELZ: Enterprise Landing Zone  
 EM+S: Enterprise Mobility + Security  
@@ -389,6 +401,7 @@ GUID: Globally Unique Identifier
 
 ## H
 HA: High Availability  
+HBM: High Bandwidth Memory  
 HCL: HashiCorp Configuration Language  
 HDD: Hard Disk Drive  
 HI: Human Intelligence  
@@ -540,6 +553,7 @@ MAID: Mobile Advertising ID
 Malvertising: Malicious advertising  
 Malware: Malicious software  
 MAM: Mobile Application Management  
+MAPP: Microsoft Active Protections Program  
 MBA: Master of Business Administration  
 MCA: Malicious Cyber Actor  
 MCP: Model Context Protocol  
@@ -860,6 +874,7 @@ SHA: Secure Hash Algorithm
 SIA: Secure Internet Access  
 SICI: Systemically Important Critical Infrastructure  
 SIEM: Security Information and Event Management  
+SIG: Standardized Information Gathering  
 SIGINT: Signals intelligence  
 SIM: Subscriber Identity Module  
 Simjacking: SIM + hijacking  
@@ -883,12 +898,14 @@ SMTP: Simple Mail Transfer Protocol
 SNAT: Source NAT  
 SNI: Server Name Indication  
 SNMP: Simple Network Management Protocol  
+SNS: Simple Notification Service  
 SOA: Statement of Applicability | Service-Oriented Architecture  
 SOAP: Simple Object Access Protocol  
 SOAR: Security orchestration, automation and response  
 SOC | SoC: Security Operations Center | Service Organization Controls | System and Organization Controls | System on Chip  
 SOHO: Small Office/Home Office  
 SOP: Same-Origin Policy  
+SOTA: State Of The Art  
 SOUP: Software of Unknown/Uncertain Pedigree/Provenance  
 SPA: Single-Page Application  
 Spec: Specification  
@@ -1037,6 +1054,7 @@ WS-Fed: Web Services Federation
 WSL: Windows Subsystem for Linux  
 WWDC: Worldwide Developers Conference  
 WWW: World Wide Web  
+WYSIWYG: What You See Is What You Get  
 
 ## X
 XDR: Extended Detection and Response  
